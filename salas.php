@@ -92,7 +92,7 @@
                 </div>
             </section>
 
-            <section id="salas">
+            <section>
                 <div class="container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-end">
@@ -136,67 +136,106 @@
                         <div class="col-12">
                             <hr class="wow bounceInUp">
                         </div>
-                        <div class="row mt-4">
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
-                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
-                               <a href="sala.php" class="logo-sala">
-                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
-                                </a>
-                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
-                                <h3>el cuenco</h3>
-                            </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="salas">
+            <img src="assets/img/bg-news-somos.png" class="img" alt="">
+                <div class="container">
+                    <div class="row mt-4">
+                        <div class="col-12">
+                            <h1 class="mt-4 mb-5 wow bounceInUp">salas</h1>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | tanti</p>
+                            <h3>otillia</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | río 4</p>
+                            <h3>viejo mercado</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
+                        </div>
+                        <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                            <a href="sala.php" class="logo-sala">
+                                <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                            </a>
+                            <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                            <h3>el cuenco</h3>
                         </div>
                     </div>
                 </div>
             </section>
+
+
         
         </main>
         

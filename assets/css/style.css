@@ -418,7 +418,7 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
 #eventos .carousel-inner .carousel-item-next,
 #eventos .carousel-inner .carousel-item-prev {display: flex;}
 
-#eventos .dropdown-toggle, #salas .dropdown-toggle {
+#eventos .dropdown-toggle {
     padding: 0;
     margin: 0 10px;
     border: none;
@@ -563,7 +563,7 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     position: relative;
     background: var(--amarillo) url(../img/bg-01.svg) center left -200px no-repeat;
 }
-#news-somos .img, .eventos-salas .img {
+#news-somos .img, .eventos-salas .img, #salas .img {
     width: 100%;
     left: 0;
     top: -157px;
@@ -819,14 +819,28 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     height: 100%;
     position: absolute;
 }
+#salas {
+    margin-top: 150px;
+    position: relative;
+    background: var(--amarillo);
+}
 #salas .logo-sala {
     width: 200px;
     height: 200px;
     padding: 30px;
     display: flex;
+    background: #fff;
     border-radius: 10px;
-    background: #CECE00;
+    transition: all .3s;
+    -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.1);
+        box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.1);
 }
+#salas .logo-sala:hover {
+    -webkit-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
+        box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
+} 
 footer h1 {
     font-size: 24px;
     text-transform: uppercase;
