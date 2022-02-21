@@ -170,25 +170,23 @@
                         <div class="col-md-9">
                             <div class="row">
                                 <div class="col-12 d-flex justify-content-end">
-                                    <div class="dropdown wow bounceInUp">
-                                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                                           Ordenar Por
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                            <li><a class="dropdown-item" href="#">uno</a></li>
-                                            <li><a class="dropdown-item" href="#">dos</a></li>
-                                            <li><a class="dropdown-item" href="#">tres</a></li>
-                                        </ul>
+                                    <div class="d-flex align-items-center me-4 wow bounceInUp">
+                                        <p class="mb-0 me-2 text-nowrap">Ordenar Por</p>
+                                        <select class="form-select form-select form-select-sm">
+                                            <option selected>Seleccionar</option>
+                                            <option value="1">Mayor precio</option>
+                                            <option value="2">Menor precio</option>
+                                            <option value="3">Más recientes</option>
+                                        </select>
                                     </div>
-                                    <div class="dropdown wow bounceInUp">
-                                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                                           Mostrar
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                            <li><a class="dropdown-item" href="#">uno</a></li>
-                                            <li><a class="dropdown-item" href="#">dos</a></li>
-                                            <li><a class="dropdown-item" href="#">tres</a></li>
-                                        </ul>
+                                    <div class="d-flex align-items-center wow bounceInUp">
+                                        <p class="mb-0 me-2 text-nowrap">Mostrar</p>
+                                        <select class="form-select form-select form-select-sm">
+                                            <option selected>Seleccionar</option>
+                                            <option value="1">Uno</option>
+                                            <option value="2">Dos</option>
+                                            <option value="3">Tres</option>
+                                        </select>
                                     </div>
                                 </div>
                                 <div class="col-12">

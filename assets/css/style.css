@@ -124,13 +124,14 @@ ul {list-style: none;}
 .GothamLight {font-family: var(--GothamLight);}
 
 .navbar-collapse {margin-top: 40px;}
-.form-select {
+.form-search {background: #fff url(../img/magnifying-glass-solid.svg) center right 15px no-repeat;}
+.form-select {background: #fff url(../img/chevron-down-solid.svg) center right 15px no-repeat;}
+.form-select, .form-control {
     border: none;
     color: var(--gris);
     border: 1px solid var(--grisClaro);
     border-radius: 8px;
     text-transform: uppercase;
-    background: #fff url(../img/chevron-down-solid.svg) center right 15px no-repeat;
     background-size: 14px;
 }
 .form-select:focus, .btn-check:focus+.btn-secondary, .btn-secondary:focus {box-shadow: none;}
@@ -354,6 +355,7 @@ button.switch-month {
     transition: color .2s;
 }
 button.switch-month:hover svg path {fill: var(--amarillo);}
+#eventos h4 {font-size: 25px;}
 #eventos .box-eventos {
     border-radius: 30px;
     background: white;
@@ -816,6 +818,14 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     z-index: -1;
     height: 100%;
     position: absolute;
+}
+#salas .logo-sala {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    display: flex;
+    border-radius: 10px;
+    background: #CECE00;
 }
 footer h1 {
     font-size: 24px;

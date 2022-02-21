@@ -96,29 +96,103 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-end">
-                            <div class="dropdown wow bounceInUp">
-                                <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Provincia
-                                </a>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <li><a class="dropdown-item" href="#">uno</a></li>
-                                    <li><a class="dropdown-item" href="#">dos</a></li>
-                                    <li><a class="dropdown-item" href="#">tres</a></li>
-                                </ul>
+                            <div class="d-flex align-items-center me-4 wow bounceInUp">
+                                <p class="mb-0 me-2 text-nowrap">Provincia</p>
+                                <select class="form-select form-select form-select-sm">
+                                    <option selected>Seleccionar</option>
+                                    <option value="1">BUENOS AIRES</option>
+                                    <option value="2">CATAMARCA</option>
+                                    <option value="5">CHACO</option>
+                                    <option value="6">CHUBUT</option>
+                                    <option value="50">CIUDAD AUTONOMA DE Bs As</option>
+                                    <option value="3">CORDOBA</option>
+                                    <option value="4">CORRIENTES</option>
+                                    <option value="7">ENTRE RIOS</option>
+                                    <option value="8">FORMOSA</option>
+                                    <option value="9">JUJUY</option>
+                                    <option value="10">LA PAMPA</option>
+                                    <option value="11">LA RIOJA</option>
+                                    <option value="12">MENDOZA</option>
+                                    <option value="13">MISIONES</option>
+                                    <option value="14">NEUQUEN</option>
+                                    <option value="15">RIO NEGRO</option>
+                                    <option value="16">SALTA</option>
+                                    <option value="17">SAN LUIS</option>
+                                    <option value="19">SANTA CRUZ</option>
+                                    <option value="20">SANTA FE</option>
+                                    <option value="21">SANTIAGO DEL ESTERO</option>
+                                    <option value="22">TIERRA DEL FUEGO</option>
+                                </select>
                             </div>
-                            <div class="dropdown wow bounceInUp">
-                                <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Mostrar
-                                </a>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <li><a class="dropdown-item" href="#">uno</a></li>
-                                    <li><a class="dropdown-item" href="#">dos</a></li>
-                                    <li><a class="dropdown-item" href="#">tres</a></li>
-                                </ul>
+                            <div class="d-flex align-items-center me-4 wow bounceInUp">
+                                <p class="mb-0 me-2 text-nowrap">Localidad</p>
+                                <input type="text" class="form-control form-search form-control-sm">
+                            </div>
+                            <div class="d-flex align-items-center wow bounceInUp">
+                                <p class="mb-0 me-2 text-nowrap">Localidad</p>
+                                <input type="text" class="form-control form-search form-control-sm">
                             </div>
                         </div>
                         <div class="col-12">
                             <hr class="wow bounceInUp">
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
+                            <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
+                               <a href="sala.php" class="logo-sala">
+                                    <img src="assets/img/logo-cuenco.svg" width="100%" alt="">
+                                </a>
+                                <p class="mt-2 mb-0"><span class="Grifter">córdoba</span> | córdoba</p>
+                                <h3>el cuenco</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
