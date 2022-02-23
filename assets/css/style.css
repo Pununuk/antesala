@@ -877,4 +877,6 @@ footer ul a:hover {color: var(--amarillo);}
         top: -130px;
     }
     .box-team img {width: 60%;}
+    #salas {margin-top: 50px;}
+    #news-somos .img, .eventos-salas .img, #salas .img {top: -41px;}
 }

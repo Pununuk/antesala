@@ -95,8 +95,8 @@
             <section>
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 d-flex justify-content-end">
-                            <div class="d-flex align-items-center me-4 wow bounceInUp">
+                        <div class="col-12 d-md-flex justify-content-end">
+                            <div class="d-flex align-items-center me-0 me-md-4 mb-4 mb-md-0 wow bounceInUp">
                                 <p class="mb-0 me-2 text-nowrap">Provincia</p>
                                 <select class="form-select form-select form-select-sm">
                                     <option selected>Seleccionar</option>
@@ -124,13 +124,13 @@
                                     <option value="22">TIERRA DEL FUEGO</option>
                                 </select>
                             </div>
-                            <div class="d-flex align-items-center me-4 wow bounceInUp">
+                            <div class="d-flex align-items-center me-0 me-md-4 mb-4 mb-md-0 wow bounceInUp">
                                 <p class="mb-0 me-2 text-nowrap">Localidad</p>
-                                <input type="text" class="form-control form-search form-control-sm">
+                                <input type="text" class="form-control form-search form-control-sm" placeholder="Buscar">
                             </div>
                             <div class="d-flex align-items-center wow bounceInUp">
-                                <p class="mb-0 me-2 text-nowrap">Localidad</p>
-                                <input type="text" class="form-control form-search form-control-sm">
+                                <p class="mb-0 me-2 text-nowrap">Sala</p>
+                                <input type="text" class="form-control form-search form-control-sm" placeholder="Buscar">
                             </div>
                         </div>
                         <div class="col-12">
