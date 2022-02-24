@@ -26,7 +26,7 @@
                             <h1>¿Querés saber más? <br>Toda la info en un solo lugar</h1>
                         </div>
                         <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
+                            <a href="podcast.php" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
                             </a>
                         </div>
@@ -56,7 +56,7 @@
                             </a>
                         </div>
                         <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
+                            <a href="podcast.php" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
                             </a>
                         </div>

@@ -218,7 +218,7 @@
                             <h1>¿Querés saber más? <br>Toda la info en un solo lugar</h1>
                         </div>
                         <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
+                            <a href="podcast.php" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
                             </a>
                         </div>
@@ -248,7 +248,7 @@
                             </a>
                         </div>
                         <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
+                            <a href="podcast.php" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
                             </a>
                         </div>
@@ -345,12 +345,12 @@
                                         </a>
                                         <!-- Modal -->
                                         <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
-                                            <div class="modal-dialog">
-                                            <div class="modal-content">
-                                                <div class="modal-body">
-                                                    <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                                                    </div>
                                                 </div>
-                                            </div>
                                             </div>
                                         </div>
                                     </div>
@@ -363,12 +363,12 @@
                                         </a>
                                         <!-- Modal -->
                                         <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
-                                            <div class="modal-dialog">
-                                            <div class="modal-content">
-                                                <div class="modal-body">
-                                                    <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                                                    </div>
                                                 </div>
-                                            </div>
                                             </div>
                                         </div>
                                     </div>
@@ -391,12 +391,12 @@
                                         </a>
                                         <!-- Modal -->
                                         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                            <div class="modal-dialog">
-                                            <div class="modal-content">
-                                                <div class="modal-body">
-                                                    <iframe width="100%" height="500px" src="https://www.youtube.com/embed/JWRlTezTF2k?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/JWRlTezTF2k?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                    </div>
                                                 </div>
-                                            </div>
                                             </div>
                                         </div>
                                     </div>

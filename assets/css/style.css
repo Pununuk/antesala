@@ -840,7 +840,14 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     -webkit-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
     -moz-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
         box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
-} 
+}
+.box-multimedia-podcast {
+    border-radius: 30px;
+}
+.box-multimedia-podcast img {
+    border-radius: 30px 0 0 30px;
+    width: 400px;
+}
 footer h1 {
     font-size: 24px;
     text-transform: uppercase;
@@ -879,4 +886,8 @@ footer ul a:hover {color: var(--amarillo);}
     .box-team img {width: 60%;}
     #salas {margin-top: 50px;}
     #news-somos .img, .eventos-salas .img, #salas .img {top: -41px;}
+    .box-multimedia-podcast img {
+        border-radius: 30px 30px 0 0;
+        width: 100%;
+    }
 }

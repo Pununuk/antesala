@@ -18,8 +18,15 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="#">Cartelera</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Contenidos</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Contenidos
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
+                        <li><a class="dropdown-item" href="#">Notas</a></li>
+                        <li><a class="dropdown-item" href="#">Videos</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="#">Teatros</a>
@@ -68,8 +75,15 @@
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="#">Cartelera</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#">Contenidos</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Contenidos
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
+                            <li><a class="dropdown-item" href="#">Notas</a></li>
+                            <li><a class="dropdown-item" href="#">Videos</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="salas.php">Salas</a>
