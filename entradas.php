@@ -5,7 +5,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Antesala | Entradas</title>
-
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+        
         <!-- css -->
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/owlcarousel/css/owl.carousel.min.css">
@@ -153,7 +154,7 @@
                                 <p class="GothamBold mb-0 mb-2 wow bounceInUp">Modo de Espectáculo</p>
                                 <div class="form-check mb-2 wow bounceInUp">
                                     <label class="form-check-label">
-                                        Presencil
+                                        Presencial
                                     </label>
                                     <input class="form-check-input" type="checkbox" value="">
                                 </div>
