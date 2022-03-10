@@ -20,92 +20,6 @@
         <?php include 'includes/navbar.php';?> 
 
         <main>
-            <section id="links-multimedia" class="pt-100 pb-100">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12 text-center wow bounceInUp">
-                            <h1>¿Querés saber más? <br>Toda la info en un solo lugar</h1>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">videos</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">entrevistas y notas</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cartelera</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">salas</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cursos</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="podcast.php" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">videos</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">entrevistas y notas</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cartelera</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">salas</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cursos</h4>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 wow bounceInUp">
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-                                Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation 
-                            </p>
-                        </div>
-                        <div class="col-md-6 wow bounceInUp">
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-                                Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation 
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
             <section class="mt-100">
                 <div class="container">
@@ -137,14 +51,15 @@
                     <div class="row">
                         <div class="col-md-12 mb-5">
                             <div class="bg-naranja box-multimedia-podcast d-md-flex mb-4 wow bounceInUp">
-                                <img src="assets/img/img-multimedia.png" alt="">
                                 <div class="d-flex flex-column justify-content-between pt-5 pb-5 pe-4 ps-4">
                                     <div>
-                                        <h2 class="fc-blanco text-md-end mb-0">sobre verse bella en el teatro</h2>
-                                        <h3 class="fc-blanco text-md-end">de belén pistone</h3>
+                                        <p class="fc-blanco">12 de enero de 2022</p>
+                                        <hr class="wow bounceInUp">
+                                        <h2 class="fc-blanco mb-0">Sobre verse bella en el teatro</h2>
+                                        <h3 class="fc-blanco">de belén pistone</h3>
                                         <p class="fc-blanco">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam corrupti error nesciunt aspernatur consequuntur sint autem. A, ad sed!</p>
                                     </div>
-                                    <div class="text-center text-md-end">
+                                    <div class="text-center">
                                         <a class="btn btn-custom-black" data-bs-toggle="modal" data-bs-target="#spotify">escuchar</a>
                                         <!-- Modal -->
                                         <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
@@ -158,6 +73,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                <img src="assets/img/img-multimedia.png" alt="">
                             </div>
 
                             <div class="bg-gris-oscuro box-multimedia-podcast d-md-flex mb-4 wow bounceInUp">

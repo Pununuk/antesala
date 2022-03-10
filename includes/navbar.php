@@ -15,9 +15,6 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="somos.php">Somos</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Cartelera</a>
-                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Contenidos
@@ -55,7 +52,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-2">
-                <a href="index.php"><img src="assets/img/antesala-logo.svg" width="200px" alt=""></a>
+                <a href="index.php"><img src="assets/img/antesala-logo.svg" width="160px" alt=""></a>
             </div>
             <div class="col-md-8 d-flex flex-column justify-content-between">
                 <form class="d-flex position-relative me-auto ms-auto">
@@ -71,9 +68,6 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="somos.php">Somos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#">Cartelera</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

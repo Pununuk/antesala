@@ -547,7 +547,7 @@
 
         <!-- js -->
         <script src="assets/jquery/jquery.min.js"></script>
-        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
         <script src="assets/owlcarousel/js/owl.carousel.min.js"></script>
         <script src="assets/wow-master/js/wow.min.js"></script>
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
