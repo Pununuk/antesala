@@ -344,7 +344,6 @@
                                         <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#spotify">
                                             <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_nwo471nu.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;" loop autoplay></lottie-player>
                                         </a>
-                                        <!-- Modal -->
                                         <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered">
                                                 <div class="modal-content">
@@ -362,7 +361,6 @@
                                         <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#spotify">
                                             <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_nwo471nu.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;" loop autoplay></lottie-player>
                                         </a>
-                                        <!-- Modal -->
                                         <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered">
                                                 <div class="modal-content">

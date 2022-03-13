@@ -22,7 +22,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
                         <li><a class="dropdown-item" href="#">Notas</a></li>
-                        <li><a class="dropdown-item" href="#">Videos</a></li>
+                        <li><a class="dropdown-item" href="video.php">Videos</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
@@ -76,7 +76,7 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
                             <li><a class="dropdown-item" href="#">Notas</a></li>
-                            <li><a class="dropdown-item" href="#">Videos</a></li>
+                            <li><a class="dropdown-item" href="video.php">Videos</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

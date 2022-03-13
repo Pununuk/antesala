@@ -48,10 +48,9 @@
 }
 :root {
     --gris: #3D3D3D;
-    --rojo: #EF3001;
     --violeta: #E11DFF;
-    --naranja: #DF4B12;
-    --amarillo: #CECE00;
+    --naranja: #d0552a;
+    --amarillo: #d0cd2a;
     --grisClaro: #EAEAEA;
     --grisOscuro: #232323;
     --Grifter: 'Grifter', Arial, Helvetica, sans-serif;
@@ -109,6 +108,11 @@ ul {list-style: none;}
 .hr-white {
     opacity: 1;
     height: 3px !important;
+    background: white;
+}
+.hr-white-01 {
+    opacity: 1;
+    height: 1px !important;
     background: white;
 }
 /* BG Colors */
@@ -548,7 +552,7 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     position: absolute;
 }
 
-#news .lottie-player {
+#news .lottie-player, #video .lottie-player {
     z-index: 1;
     cursor: pointer;
     position: absolute;
@@ -846,12 +850,16 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     -moz-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
         box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.5);
 }
-.box-multimedia-podcast {
+.box-multimedia {
+    overflow: hidden;
     border-radius: 20px;
 }
-.box-multimedia-podcast img {
-    border-radius: 0 20px 20px 0;
-    width: 400px;
+.box-multimedia img {border-radius: 0 20px 20px 0;}
+
+#video .box-multimedia img {border-radius: 20px 20px 0 0;}
+#video .header-box {
+    height: 300px;
+    overflow: hidden;
 }
 footer h1 {
     font-size: 24px;
@@ -891,8 +899,74 @@ footer ul a:hover {color: var(--amarillo);}
     .box-team img {width: 60%;}
     #salas {margin-top: 50px;}
     #news-somos .img, .eventos-salas .img, #salas .img {top: -41px;}
-    .box-multimedia-podcast img {
-        border-radius: 30px 30px 0 0;
+    .box-multimedia img {
+        border-radius: 20px 20px 0 0;
         width: 100%;
     }
 }
+
+
+  .card-ticket {
+    height: 100%;
+    background: linear-gradient(to bottom, var(--naranja) 0%, var(--naranja) 26%, #ecedef 26%, #ecedef 100%);
+    padding: 1em;
+  }
+  
+  .cardLeft {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  
+  .cardRight {
+    border-left: 0.20em dashed #fff;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .cardRight:before, .cardRight:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 0.9em;
+    height: 0.9em;
+    background: #fff;
+    border-radius: 50%;
+    left: -0.5em;
+  }
+  .cardRight:before {top: -0.4em;}
+  .cardRight:after {bottom: -0.4em;}
+  
+  .title, .name, .seat, .time {
+    text-transform: uppercase;
+    font-weight: normal;
+  }
+  .title h2, .name h2, .seat h2, .time h2 {
+    font-size: 0.9em;
+    color: #525252;
+    margin: 0;
+  }
+  .title span, .name span, .seat span, .time span {
+    font-size: 0.7em;
+    color: #a2aeae;
+  }
+  
+  .title {margin: 2em 0 0 0;}
+  .name, .seat {margin: 0.7em 0 0 0;}
+  .time {margin: 0.7em 0 0 1em;}
+  .seat, .time {float: left;}
+  
+  .number {
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .number h3 {
+    color: var(--naranja);
+    margin: 0.9em 0 0 0;
+    font-size: 2.5em;
+  }
+  .number span {
+    display: block;
+    color: #a2aeae;
+  }
+  /* https://codepen.io/Taimoorkhan/pen/LYNbBRV */
+
+  
