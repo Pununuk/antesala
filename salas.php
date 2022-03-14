@@ -9,8 +9,6 @@
 
         <!-- css -->
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/owlcarousel/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="assets/owlcarousel/css/owl.theme.default.min.css">
         <link rel="stylesheet" href="assets/wow-master/css/animate.css">
         <link rel="stylesheet" href="assets/css/style.css">
 
@@ -244,8 +242,7 @@
 
         <!-- js -->
         <script src="assets/jquery/jquery.min.js"></script>
-        <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/owlcarousel/js/owl.carousel.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script> 
         <script src="assets/wow-master/js/wow.min.js"></script>
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
         <script src="assets/js/custom.js"></script>

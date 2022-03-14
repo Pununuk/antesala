@@ -1,61 +1,4 @@
 $(document).ready(function(){
-    $('.owl-carousel').owlCarousel({
-        loop: true,
-        margin: 40,
-        autoplay: true,
-        autoplayTimeout: 3000,
-        nav: false,
-        responsive: {
-            0: {
-                items: 1,
-            },
-            600: {
-                items: 1
-            },
-            1000: {
-                items: 1
-            }
-        }
-    });
-});
-$('.owl-salas').owlCarousel({
-    loop: true,
-    margin: 40,
-    autoplay: true,
-    autoplayTimeout: 3000,
-    nav: false,
-    responsive: {
-        0: {
-            items: 1,
-        },
-        600: {
-            items: 3
-        },
-    }
-});
-wow = new WOW(
-    {
-        offset: 150,
-    }
-)
-wow.init();
-let items = document.querySelectorAll('#eventos .carousel .carousel-item')
-        
-items.forEach((el) => {
-    const minPerSlide = 4
-    let next = el.nextElementSibling
-    for (var i=1; i<minPerSlide; i++) {
-        if (!next) {
-            // wrap carousel by using first child
-            next = items[0]
-        }
-        let cloneChild = next.cloneNode(true)
-        el.appendChild(cloneChild.children[0])
-        next = next.nextElementSibling
-    }
-});
-
-$(document).ready(function () {
     function c(passed_month, passed_year, calNum) {
         var calendar = calNum == 0 ? calendars.cal1 : calendars.cal2;
         makeWeek(calendar.weekline);
@@ -447,5 +390,61 @@ $(document).ready(function () {
             }
         }
         return selected;
+    }
+    
+    $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 40,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        nav: false,
+        responsive: {
+            0: {
+                items: 1,
+            },
+            600: {
+                items: 1
+            },
+            1000: {
+                items: 1
+            }
+        }
+    });
+});
+
+$('.owl-salas').owlCarousel({
+    loop: true,
+    margin: 40,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    nav: false,
+    responsive: {
+        0: {
+            items: 1,
+        },
+        600: {
+            items: 3
+        },
+    }
+});
+wow = new WOW(
+    {
+        offset: 150,
+    }
+)
+wow.init();
+let items = document.querySelectorAll('#eventos .carousel .carousel-item')
+        
+items.forEach((el) => {
+    const minPerSlide = 4
+    let next = el.nextElementSibling
+    for (var i=1; i<minPerSlide; i++) {
+        if (!next) {
+            // wrap carousel by using first child
+            next = items[0]
+        }
+        let cloneChild = next.cloneNode(true)
+        el.appendChild(cloneChild.children[0])
+        next = next.nextElementSibling
     }
 });

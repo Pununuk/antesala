@@ -894,8 +894,7 @@ footer ul a:hover {color: var(--amarillo);}
     }
     nav .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {border-radius: 0 50px 50px 0;}
     #apoyo {padding: 80px 0 280px;}
-    #header .owl-carousel h5 {font-size: 40px;}
-    #header .owl-carousel p { font-size: 16px;}
+    .carousel-caption {bottom: 25%}
     #news-somos {margin-top: 150px;}
     #news-somos .img {top: -40px}
     #news-somos .img-01 {
