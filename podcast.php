@@ -21,7 +21,7 @@
             <section class="wow bounceInUp">
                 <div class="container">
                     <div class="row">
-                        <div class="col-9 pe-0">
+                        <div class="col-8 col-md-9 pe-0">
                             <div class="card-ticket cardLeft d-flex flex-column">
                                 <h1 class="fc-blanco">Podcast</h1>
                                 <div class="title">
@@ -44,7 +44,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 ps-0">
+                        <div class="col-4 col-md-3 ps-0">
                             <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
                                 <div class="text-center">
                                     <img src="assets/img/iso-antesala.svg" alt="">
@@ -54,7 +54,7 @@
                                     <span>asiento</span>
                                 </div>
                                 <div class="text-center">
-                                    <img src="assets/img/barcode.svg" alt="">
+                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -62,11 +62,11 @@
                 </div>
             </section>
 
-            <section class="mt-100 mb-5">
+            <section id="podcast" class="mt-100 mb-5">
                 <div class="container">    
                     <div class="bg-naranja box-multimedia mb-4 wow bounceInUp">
                         <div class="row">
-                            <div class="col-md-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-md-1">
+                            <div class="col-lg-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-lg-1">
                                 <div>
                                     <p class="fc-blanco">12 de enero de 2022</p>
                                     <hr class="hr-white-01">
@@ -88,7 +88,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 order-1 order-md-2">
+                            <div class="col-lg-4 order-1 order-lg-2 header-box d-flex justify-content-center align-items-centers">
                                 <img src="assets/img/img-multimedia.png" width="100%" alt="">
                             </div>
                         </div>
@@ -96,7 +96,7 @@
 
                     <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                         <div class="row">
-                            <div class="col-md-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-md-1">
+                            <div class="col-lg-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-lg-1">
                                 <div>
                                     <p class="fc-blanco">12 de enero de 2022</p>
                                     <hr class="hr-white-01">
@@ -118,7 +118,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 order-1 order-md-2">
+                            <div class="col-lg-4 order-1 order-lg-2 header-box d-flex justify-content-center align-items-centers">
                                 <img src="assets/img/img-multimedia.png" width="100%" alt="">
                             </div>
                         </div>
@@ -126,7 +126,7 @@
 
                     <div class="bg-naranja box-multimedia mb-4 wow bounceInUp">
                         <div class="row">
-                            <div class="col-md-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-md-1">
+                            <div class="col-lg-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-lg-1">
                                 <div>
                                     <p class="fc-blanco">12 de enero de 2022</p>
                                     <hr class="hr-white-01">
@@ -148,7 +148,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 order-1 order-md-2">
+                            <div class="col-lg-4 order-1 order-lg-2 header-box d-flex justify-content-center align-items-centers">
                                 <img src="assets/img/img-multimedia.png" width="100%" alt="">
                             </div>
                         </div>

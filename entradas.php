@@ -18,7 +18,7 @@
         <?php include 'includes/navbar.php';?>
 
         <main>
-        <section class="wow bounceInUp">
+            <section class="wow bounceInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-8 col-md-9 pe-0">
@@ -54,7 +54,7 @@
                                     <span>asiento</span>
                                 </div>
                                 <div class="text-center">
-                                    <img src="assets/img/barcode.svg" alt="">
+                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
                                 </div>
                             </div>
                         </div>

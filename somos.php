@@ -18,11 +18,53 @@
         <?php include 'includes/navbar.php';?> 
 
         <main>
-            <section>
+            <section class="wow bounceInUp">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-8 col-md-9 pe-0">
+                            <div class="card-ticket cardLeft d-flex flex-column">
+                                <h1 class="fc-blanco">Somos</h1>
+                                <div class="title">
+                                    <h2>Antesala</h2>
+                                    <span>movie</span>
+                                </div>
+                                <div class="name">
+                                    <h2>Vladimir Kudinov</h2>
+                                    <span>name</span>
+                                </div>
+                                <div>
+                                    <div class="seat">
+                                        <h2>156</h2>
+                                        <span>seat</span>
+                                    </div>
+                                    <div class="time">
+                                        <h2>12:00</h2>
+                                        <span>time</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 col-md-3 ps-0">
+                            <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
+                                <div class="text-center">
+                                    <img src="assets/img/iso-antesala.svg" alt="">
+                                </div>
+                                <div class="number">
+                                    <h3>156</h3>
+                                    <span>asiento</span>
+                                </div>
+                                <div class="text-center">
+                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="mt-100">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h1 class="wow bounceInUp">Somos</h1>
                             <p class="wow bounceInUp">Hola, somos ANTESALA, un equipo de amigues con mucha experiencia en diferentes aéreas de las artes escénicas y la gestión cultural. Juntes creamos este sitio de difusión y venta de entradas para que toda la info de la cultura independiente sea más accesible para vos. Para que el Off provinciano se ponga On-line diseñamos Antesala, la página y tikcetera desde la cual vas a poder acceder a toda la oferta cultural.
                                 Antesala es la escalera a la escena independiente, profunda y diversa.
                                 Antesala es la escalera a la nueva escena y también a la escena tradicional.

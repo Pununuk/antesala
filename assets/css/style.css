@@ -579,7 +579,7 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     position: relative;
     background: var(--amarillo) url(../img/bg-01.svg) center left -200px no-repeat;
 }
-#news-somos .img, .eventos-salas .img, #salas .img {
+#news-somos .img, .eventos-salas .img {
     width: 100%;
     left: 0;
     top: -157px;
@@ -836,8 +836,6 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     position: absolute;
 }
 #salas {
-    margin-top: 150px;
-    position: relative;
     background: var(--amarillo);
 }
 #salas .logo-sala {
@@ -862,12 +860,79 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     border-radius: 20px;
 }
 .box-multimedia img {border-radius: 0 20px 20px 0;}
-
+#podcast .box-multimedia img {
+    width: auto;
+    position: absolute;
+    border-radius: 0 20px 20px 0;
+}
+#podcast .header-box {
+    overflow: hidden;
+    position: relative;
+}
 #video .box-multimedia img {border-radius: 20px 20px 0 0;}
 #video .header-box {
     height: 300px;
     overflow: hidden;
 }
+
+.card-ticket {
+    height: 100%;
+    background: linear-gradient(to bottom, var(--naranja) 0%, var(--naranja) 26%, #ecedef 26%, #ecedef 100%);
+    padding: 1em;
+}
+.cardLeft {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.cardRight {
+    border-left: 0.20em dashed #fff;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.cardRight:before, .cardRight:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 0.9em;
+    height: 0.9em;
+    background: #fff;
+    border-radius: 50%;
+    left: -0.5em;
+}
+.cardRight:before {top: -0.4em;}
+.cardRight:after {bottom: -0.4em;}
+.title, .name, .seat, .time {
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.title h2, .name h2, .seat h2, .time h2 {
+    font-size: 0.9em;
+    color: #525252;
+    margin: 0;
+}
+.title span, .name span, .seat span, .time span {
+    font-size: 0.7em;
+    color: #a2aeae;
+}
+.title {margin: 2em 0 0 0;}
+.name, .seat {margin: 0.7em 0 0 0;}
+.time {margin: 0.7em 0 0 1em;}
+.seat, .time {float: left;}
+.number {
+    text-align: center;
+    text-transform: uppercase;
+}
+.number h3 {
+    color: var(--naranja);
+    margin: 0.9em 0 0 0;
+    font-size: 2.5em;
+}
+.number span {
+    display: block;
+    color: #a2aeae;
+}
+
+
 footer h1 {
     font-size: 24px;
     text-transform: uppercase;
@@ -909,70 +974,14 @@ footer ul a:hover {color: var(--amarillo);}
         border-radius: 20px 20px 0 0;
         width: 100%;
     }
+    #podcast .header-box {
+        height: 300px;
+        overflow: hidden;
+    }
+    .barchart {width: 90%;}
 }
 
 
-  .card-ticket {
-    height: 100%;
-    background: linear-gradient(to bottom, var(--naranja) 0%, var(--naranja) 26%, #ecedef 26%, #ecedef 100%);
-    padding: 1em;
-  }
-  
-  .cardLeft {
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
-  }
-  
-  .cardRight {
-    border-left: 0.20em dashed #fff;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
-  }
-  .cardRight:before, .cardRight:after {
-    content: "";
-    position: absolute;
-    display: block;
-    width: 0.9em;
-    height: 0.9em;
-    background: #fff;
-    border-radius: 50%;
-    left: -0.5em;
-  }
-  .cardRight:before {top: -0.4em;}
-  .cardRight:after {bottom: -0.4em;}
-  
-  .title, .name, .seat, .time {
-    text-transform: uppercase;
-    font-weight: normal;
-  }
-  .title h2, .name h2, .seat h2, .time h2 {
-    font-size: 0.9em;
-    color: #525252;
-    margin: 0;
-  }
-  .title span, .name span, .seat span, .time span {
-    font-size: 0.7em;
-    color: #a2aeae;
-  }
-  
-  .title {margin: 2em 0 0 0;}
-  .name, .seat {margin: 0.7em 0 0 0;}
-  .time {margin: 0.7em 0 0 1em;}
-  .seat, .time {float: left;}
-  
-  .number {
-    text-align: center;
-    text-transform: uppercase;
-  }
-  .number h3 {
-    color: var(--naranja);
-    margin: 0.9em 0 0 0;
-    font-size: 2.5em;
-  }
-  .number span {
-    display: block;
-    color: #a2aeae;
-  }
   /* https://codepen.io/Taimoorkhan/pen/LYNbBRV */
 
   

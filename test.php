@@ -292,114 +292,179 @@
                 </div>
             </section>
 
-            <section id="news" class="bg-black pb-50 pt-50">
+            <section class="bg-black pb-50 pt-50">
                 <div class="container">
-                    <div class="row mb-100">
+                    <div class="row mb-100" id="video">
                         <div class="col-12 text-center mb-4">
                             <h1 class="fc-blanco wow bounceInUp">últimas notas y entrevistas</h1>
                         </div>
-                        <div class="col-md-4 mb-4 wow bounceInUp">
-                            <div class="card">
-                                <img src="assets/img/box-ultima-nota-01.png" width="100%">
-                                <div class="card-body">
-                                    <h2 class="fc-blanco">La venta de cerveza en el teatro</h2>
-                                    <h4 class="Grifter fc-blanco">por coco albarracin</h4>
+                        <div class="col-lg-4 wow bounceInUp">
+                            <div class="bg-blanco box-multimedia mb-4">
+                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
+                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
                                 </div>
-                                <a href="#" class="btn btn-custom-black">leer +</a>
+                                <div class="d-flex flex-column justify-content-between p-4">
+                                    <div>
+                                        <p>12 de enero de 2022</p>
+                                        <hr class="hr-black-01">
+                                        <h3>Comentario sobre la obra:</h3>
+                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                    </div>
+                                    <div class="text-center mt-4">
+                                        <a href="#" class="btn btn-custom-black">leer</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4 wow bounceInUp">
-                            <div class="card">
-                                <img src="assets/img/box-ultima-nota-02.png" width="100%">
-                                <div class="card-body">
-                                    <h2 class="fc-blanco">La venta de cerveza en el teatro</h2>
-                                    <h4 class="Grifter fc-blanco">por coco albarracin</h4>
+
+                        <div class="col-lg-4 wow bounceInUp">
+                            <div class="bg-blanco box-multimedia mb-4">
+                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
+                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
                                 </div>
-                                <a href="#" class="btn btn-custom-black">leer +</a>
+                                <div class="d-flex flex-column justify-content-between p-4">
+                                    <div>
+                                        <p>12 de enero de 2022</p>
+                                        <hr class="hr-black-01">
+                                        <h3>Comentario sobre la obra:</h3>
+                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                    </div>
+                                    <div class="text-center mt-4">
+                                        <a href="#" class="btn btn-custom-black">leer</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4 wow bounceInUp">
-                            <div class="card">
-                                <img src="assets/img/box-ultima-nota-03.png" width="100%">
-                                <div class="card-body">
-                                    <h2 class="fc-blanco">La venta de cerveza en el teatro</h2>
-                                    <h4 class="Grifter fc-blanco">por coco albarracin</h4>
+
+                        <div class="col-lg-4 wow bounceInUp">
+                            <div class="bg-blanco box-multimedia mb-4">
+                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
+                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
                                 </div>
-                                <a href="#" class="btn btn-custom-black">leer +</a>
+                                <div class="d-flex flex-column justify-content-between p-4">
+                                    <div>
+                                        <p>12 de enero de 2022</p>
+                                        <hr class="hr-black-01">
+                                        <h3>Comentario sobre la obra:</h3>
+                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                    </div>
+                                    <div class="text-center mt-4">
+                                        <a href="#" class="btn btn-custom-black">leer</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="d-grid gap-2 wow bounceInUp">
                             <a href="#" class="btn btn-custom-amarillo">ver más +</a>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="row">
-                                <div class="col-12 text-center mb-4">
-                                    <h2 class="fc-blanco wow bounceInUp">últimos podcast</h2>
-                                </div>
-                                <div class="col-md-6 wow bounceInUp mb-4">
-                                    <div class="card position-relative d-flex align-items-center justify-content-center">
-                                        <img src="assets/img/box-podcast-01.png" width="100%">
-                                        <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#spotify">
-                                            <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_nwo471nu.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;" loop autoplay></lottie-player>
-                                        </a>
-                                        <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
-                                            <div class="modal-dialog modal-dialog-centered">
-                                                <div class="modal-content">
-                                                    <div class="modal-body">
-                                                        <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                    <div class="row" id="podcast">
+                        <div class="col-lg-8">
+                            <div class="col-12 text-center mb-4">
+                                <h2 class="fc-blanco wow bounceInUp">últimos podcast</h2>
+                            </div>
+
+                            <div class="bg-naranja box-multimedia mb-4 wow bounceInUp">
+                                <div class="row">
+                                    <div class="col-lg-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-lg-1">
+                                        <div>
+                                            <p class="fc-blanco">12 de enero de 2022</p>
+                                            <hr class="hr-white-01">
+                                            <h2 class="fc-blanco mb-0">Sobre verse bella en el teatro</h2>
+                                            <h3 class="fc-blanco">de belén pistone</h3>
+                                            <p class="fc-blanco">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                        </div>
+                                        <div class="text-center">
+                                            <a class="btn btn-custom-black" data-bs-toggle="modal" data-bs-target="#spotify">escuchar</a>
+                                            <!-- Modal -->
+                                            <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
+                                                <div class="modal-dialog modal-dialog-centered">
+                                                    <div class="modal-content">
+                                                        <div class="modal-body">
+                                                            <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-md-6 wow bounceInUp mb-4">
-                                    <div class="card position-relative d-flex align-items-center justify-content-center">
-                                        <img src="assets/img/box-podcast-02.png" width="100%">
-                                        <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#spotify">
-                                            <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_nwo471nu.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;" loop autoplay></lottie-player>
-                                        </a>
-                                        <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
-                                            <div class="modal-dialog modal-dialog-centered">
-                                                <div class="modal-content">
-                                                    <div class="modal-body">
-                                                        <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <div class="col-lg-4 order-1 order-lg-2 header-box d-flex justify-content-center align-items-centers">
+                                        <img src="assets/img/img-multimedia.png" width="100%" alt="">
                                     </div>
-                                </div>
-                                <div class="d-grid gap-2 wow bounceInUp">
-                                    <a href="#" class="btn btn-custom-amarillo">ver más +</a>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="row">
-                                <div class="col-12 text-center mb-4 mt-4 mt-md-0">
-                                    <h2 class="fc-blanco wow bounceInUp">video del mes</h2>
-                                </div>
-                                <div class="col-12 wow bounceInUp">
-                                    <div class="card position-relative d-flex align-items-center justify-content-center">
-                                        <img src="assets/img/box-video-01.png" width="110%">
-                                        <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                            <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_avzk3oss.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop autoplay></lottie-player>
-                                        </a>
-                                        <!-- Modal -->
-                                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                            <div class="modal-dialog modal-dialog-centered">
-                                                <div class="modal-content">
-                                                    <div class="modal-body">
-                                                        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/JWRlTezTF2k?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                            <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
+                                <div class="row">
+                                    <div class="col-lg-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-lg-1">
+                                        <div>
+                                            <p class="fc-blanco">12 de enero de 2022</p>
+                                            <hr class="hr-white-01">
+                                            <h2 class="fc-amarillo mb-0">sobre verse bella en el teatro</h2>
+                                            <h3 class="fc-amarillo">de belén pistone</h3>
+                                            <p class="fc-blanco">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                        </div>
+                                        <div class="text-center">
+                                            <a class="btn btn-custom-amarillo" data-bs-toggle="modal" data-bs-target="#spotify">escuchar</a>
+                                            <!-- Modal -->
+                                            <div class="modal fade" id="spotify" tabindex="-1" aria-labelledby="spotifyLabel" aria-hidden="true">
+                                                <div class="modal-dialog modal-dialog-centered">
+                                                    <div class="modal-content">
+                                                        <div class="modal-body">
+                                                            <iframe src="https://open.spotify.com/embed/episode/3Gfh07HRSjeBTY91Bdj24P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-lg-4 order-1 order-lg-2 header-box d-flex justify-content-center align-items-centers">
+                                        <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    </div>
                                 </div>
+                            </div>
+                                
+                            <div class="d-grid gap-2 wow bounceInUp">
+                                <a href="podcast.php" class="btn btn-custom-amarillo">ver más +</a>
+                            </div>
+                              
+                        </div>
+                        <div class="col-lg-4" id="video">
+                            <div class="col-12 text-center mb-4 mt-4 mt-md-0">
+                                <h2 class="fc-blanco wow bounceInUp">video del mes</h2>
+                            </div>
+                                
+                            <div class="bg-naranja box-multimedia mb-4 wow bounceInUp">
+                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
+                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                        <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_avzk3oss.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop autoplay></lottie-player>
+                                    </a>
+                                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered">
+                                            <div class="modal-content">
+                                                <div class="modal-body">
+                                                    <iframe width="100%" height="500px" src="https://www.youtube.com/embed/JWRlTezTF2k?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-md-1">
+                                    <div>
+                                        <p class="fc-blanco">12 de enero de 2022</p>
+                                        <hr class="hr-white-01">
+                                        <h2 class="fc-blanco mb-0">Recorrido virtual por el cuenco teatro</h2>
+                                        <p class="fc-blanco">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                    </div>
+                                </div>
+                            </div>
+                                
+                            <div class="d-grid gap-2 wow bounceInUp">
+                                <a href="videos.php" class="btn btn-custom-amarillo">ver más +</a>
                             </div>
                         </div>
                     </div>

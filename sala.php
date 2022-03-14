@@ -20,12 +20,52 @@
         <?php include 'includes/navbar.php';?> 
 
         <main>
-            <section id="sala-info" class="bg-gris-claro pt-100 pb-100 mt--25">
+            <section class="wow bounceInUp">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 wow bounceInLeft">
-                            <h1>salas</h1>
+                        <div class="col-8 col-md-9 pe-0">
+                            <div class="card-ticket cardLeft d-flex flex-column">
+                                <h1 class="fc-blanco">El Cuenco</h1>
+                                <div class="title">
+                                    <h2>Antesala</h2>
+                                    <span>movie</span>
+                                </div>
+                                <div class="name">
+                                    <h2>Vladimir Kudinov</h2>
+                                    <span>name</span>
+                                </div>
+                                <div>
+                                    <div class="seat">
+                                        <h2>156</h2>
+                                        <span>seat</span>
+                                    </div>
+                                    <div class="time">
+                                        <h2>12:00</h2>
+                                        <span>time</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+                        <div class="col-4 col-md-3 ps-0">
+                            <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
+                                <div class="text-center">
+                                    <img src="assets/img/iso-antesala.svg" alt="">
+                                </div>
+                                <div class="number">
+                                    <h3>156</h3>
+                                    <span>asiento</span>
+                                </div>
+                                <div class="text-center">
+                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="sala-info" class="bg-gris-claro pt-100 pb-100 mt-100">
+                <div class="container">
+                    <div class="row">
                         <div class="col-md-5 offset-md-1  d-flex flex-column justify-content-center">
                             <div class="row">
                                 <div class="col-4">

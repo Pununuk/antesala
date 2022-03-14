@@ -14,84 +14,53 @@
 
     </head>
     <body>
-
         <?php include 'includes/navbar.php';?> 
 
         <main>
-            <section id="links-multimedia" class="pt-100 pb-100">
+            <section class="wow bounceInUp">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 text-center wow bounceInUp">
-                            <h1>¿Querés saber más? <br>Toda la info en un solo lugar</h1>
+                        <div class="col-8 col-md-9 pe-0">
+                            <div class="card-ticket cardLeft d-flex flex-column">
+                                <h1 class="fc-blanco">Salas</h1>
+                                <div class="title">
+                                    <h2>Antesala</h2>
+                                    <span>movie</span>
+                                </div>
+                                <div class="name">
+                                    <h2>Vladimir Kudinov</h2>
+                                    <span>name</span>
+                                </div>
+                                <div>
+                                    <div class="seat">
+                                        <h2>156</h2>
+                                        <span>seat</span>
+                                    </div>
+                                    <div class="time">
+                                        <h2>12:00</h2>
+                                        <span>time</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="podcast.php" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">videos</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">entrevistas y notas</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cartelera</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">salas</h4>
-                            </a>
-                        </div>
-                        <div class="col-md-2 d-flex justify-content-center wow bounceInUp d-none d-md-block">
-                            <a href="#" class="circulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cursos</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="podcast.php" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">videos</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">entrevistas y notas</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cartelera</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">salas</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
-                            <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
-                                <h4 class="Grifter fc-blanco text-center m-0">cursos</h4>
-                            </a>
-                        </div>
-                        <div class="col-12 pt-100">
-                            <hr class="hr-black wow bounceInUp">
+                        <div class="col-4 col-md-3 ps-0">
+                            <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
+                                <div class="text-center">
+                                    <img src="assets/img/iso-antesala.svg" alt="">
+                                </div>
+                                <div class="number">
+                                    <h3>156</h3>
+                                    <span>asiento</span>
+                                </div>
+                                <div class="text-center">
+                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
-
-            <section>
+            <section class="mt-100">
                 <div class="container">
                     <div class="row">
                         <div class="col-12 d-md-flex justify-content-end">
@@ -139,13 +108,9 @@
                 </div>
             </section>
 
-            <section id="salas">
-            <img src="assets/img/bg-news-somos.png" class="img" alt="">
+            <section id="salas" class="pt-100 pb-100 mt-4">
                 <div class="container">
                     <div class="row mt-4">
-                        <div class="col-12">
-                            <h1 class="mt-4 mb-5 wow bounceInUp">salas</h1>
-                        </div>
                         <div class="col-md-3 d-flex flex-column align-items-center mb-4 wow bounceInUp">
                             <a href="sala.php" class="logo-sala">
                                 <img src="assets/img/logo-cuenco.svg" width="100%" alt="">

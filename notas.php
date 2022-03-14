@@ -18,11 +18,10 @@
         <?php include 'includes/navbar.php';?> 
 
         <main>
-
             <section class="wow bounceInUp">
                 <div class="container">
                     <div class="row">
-                        <div class="col-9 pe-0">
+                        <div class="col-8 col-md-9 pe-0">
                             <div class="card-ticket cardLeft d-flex flex-column">
                                 <h1 class="fc-blanco">Notas</h1>
                                 <div class="title">
@@ -45,7 +44,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 ps-0">
+                        <div class="col-4 col-md-3 ps-0">
                             <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
                                 <div class="text-center">
                                     <img src="assets/img/iso-antesala.svg" alt="">
@@ -55,7 +54,7 @@
                                     <span>asiento</span>
                                 </div>
                                 <div class="text-center">
-                                    <img src="assets/img/barcode.svg" alt="">
+                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -67,7 +66,7 @@
                 <div class="container">
                     <div class="bg-blanco box-multimedia mb-4 wow bounceInUp">
                         <div class="row">
-                            <div class="col-md-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-md-1">
+                            <div class="col-lg-8 d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-md-1">
                                 <div>
                                     <p>12 de enero de 2022</p>
                                     <hr class="hr-black-01">
@@ -79,14 +78,14 @@
                                     <a href="#" class="btn btn-custom-black">leer</a>
                                 </div>
                             </div>
-                            <div class="col-md-4 order-1 order-md-2">
+                            <div class="col-lg-4 order-1 order-md-2">
                                 <img src="assets/img/img-multimedia.png" width="100%" alt="">
                             </div>
                         </div>
                     </div>
 
                     <div class="row" id="video">
-                        <div class="col-md-4 wow bounceInUp">
+                        <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -106,7 +105,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 wow bounceInUp">
+                        <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -126,7 +125,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 wow bounceInUp">
+                        <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -146,7 +145,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 wow bounceInUp">
+                        <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -166,7 +165,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 wow bounceInUp">
+                        <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -186,7 +185,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 wow bounceInUp">
+                        <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">

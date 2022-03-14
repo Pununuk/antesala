@@ -18,11 +18,10 @@
         <?php include 'includes/navbar.php';?> 
 
         <main>
-
             <section class="wow bounceInUp">
                 <div class="container">
                     <div class="row">
-                        <div class="col-9 pe-0">
+                        <div class="col-8 col-md-9 pe-0">
                             <div class="card-ticket cardLeft d-flex flex-column">
                                 <h1 class="fc-blanco">Videos</h1>
                                 <div class="title">
@@ -45,7 +44,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 ps-0">
+                        <div class="col-4 col-md-3 ps-0">
                             <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
                                 <div class="text-center">
                                     <img src="assets/img/iso-antesala.svg" alt="">
@@ -55,7 +54,7 @@
                                     <span>asiento</span>
                                 </div>
                                 <div class="text-center">
-                                    <img src="assets/img/barcode.svg" alt="">
+                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -66,7 +65,7 @@
             <section id="video" class="mt-100 mb-5">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-lg-6">
                             <div class="bg-naranja box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -94,7 +93,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6">
+                        <div class="col-lg-6">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -123,7 +122,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-lg-4">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -150,7 +149,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-lg-4">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
@@ -177,7 +176,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-lg-4">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
                                     <img src="assets/img/img-multimedia.png" width="100%" alt="">
