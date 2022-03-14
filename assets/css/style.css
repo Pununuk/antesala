@@ -105,6 +105,11 @@ ul {list-style: none;}
     height: 3px !important;
     background: var(--grisOscuro);
 }
+.hr-black-01 {
+    opacity: 1;
+    height: 1px !important;
+    background: var(--grisOscuro);
+}
 .hr-white {
     opacity: 1;
     height: 3px !important;
@@ -116,8 +121,10 @@ ul {list-style: none;}
     background: white;
 }
 /* BG Colors */
+.bg-blanco {background: white}
 .bg-gris {background: var(--gris);}
 .bg-naranja {background: var(--naranja);}
+.bg-amarillo {background: var(--amarillo);}
 .bg-gris-claro {background: var(--grisClaro);}
 .bg-gris-oscuro {background: var(--grisOscuro);}
 /* Colors */

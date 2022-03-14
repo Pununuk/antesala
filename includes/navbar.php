@@ -21,8 +21,8 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
-                        <li><a class="dropdown-item" href="#">Notas</a></li>
-                        <li><a class="dropdown-item" href="video.php">Videos</a></li>
+                        <li><a class="dropdown-item" href="notas.php">Notas</a></li>
+                        <li><a class="dropdown-item" href="videos.php">Videos</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
@@ -75,8 +75,8 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
-                            <li><a class="dropdown-item" href="#">Notas</a></li>
-                            <li><a class="dropdown-item" href="video.php">Videos</a></li>
+                            <li><a class="dropdown-item" href="notas.php">Notas</a></li>
+                            <li><a class="dropdown-item" href="videos.php">Videos</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Antesala | Video</title>
+        <title>Antesala | Videos</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
 
         <!-- css -->
@@ -26,7 +26,7 @@
                     <div class="row">
                         <div class="col-9 pe-0">
                             <div class="card-ticket cardLeft d-flex flex-column">
-                                <h1 class="fc-blanco">Video</h1>
+                                <h1 class="fc-blanco">Videos</h1>
                                 <div class="title">
                                     <h2>Antesala</h2>
                                     <span>movie</span>
@@ -208,8 +208,8 @@
                         </div>
                         <div class="d-grid gap-2 wow bounceInUp">
                             <a href="#" class="btn btn-custom-amarillo">ver más +</a>
-                        </div>  
-                    </div>    
+                        </div>
+                    </div>  
                 </div>
             </section>
         
