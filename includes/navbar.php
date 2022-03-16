@@ -28,9 +28,6 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="#">Teatros</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Contacto</a>
-                </li>
             </ul>
             <hr>
             <select class="form-select form-select">
@@ -81,9 +78,6 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="salas.php">Salas</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#">Contacto</a>
                     </li>
                 </ul>
             </div>

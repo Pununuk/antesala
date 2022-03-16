@@ -306,7 +306,7 @@
                                 <div class="d-flex flex-column justify-content-between p-4">
                                     <div>
                                         <p>12 de enero de 2022</p>
-                                        <hr class="hr-black-01">
+                                        <hr class="hr-black">
                                         <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
@@ -326,7 +326,7 @@
                                 <div class="d-flex flex-column justify-content-between p-4">
                                     <div>
                                         <p>12 de enero de 2022</p>
-                                        <hr class="hr-black-01">
+                                        <hr class="hr-black">
                                         <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
@@ -346,7 +346,7 @@
                                 <div class="d-flex flex-column justify-content-between p-4">
                                     <div>
                                         <p>12 de enero de 2022</p>
-                                        <hr class="hr-black-01">
+                                        <hr class="hr-black">
                                         <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>

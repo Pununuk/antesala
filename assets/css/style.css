@@ -102,11 +102,6 @@ ul {list-style: none;}
 .mb-100 {margin-bottom: 100px;}
 .hr-black {
     opacity: 1;
-    height: 3px !important;
-    background: var(--grisOscuro);
-}
-.hr-black-01 {
-    opacity: 1;
     height: 1px !important;
     background: var(--grisOscuro);
 }
