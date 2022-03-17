@@ -106,46 +106,74 @@
                 </div>
             </section>
             
-            <section id="news-somos" class="pb-50 pt-50">
-                <img src="assets/img/bg-news-somos.png" class="img" alt="">
+            <section id="news-somos" class="pb-100 pt-100">
                 <img src="assets/img/bg-03.svg" class="img-01" alt="">
                 <div class="container position-relative">
                     <div class="row mb-100">
                         <div class="col-12 text-center mb-4">
                             <h2 class="fc-blanco wow bounceInUp">últimas notas y entrevistas</h2>
                         </div>
-                        <div class="col-md-4 mb-4 wow bounceInUp">
-                            <div class="card">
-                                <img src="assets/img/box-ultima-nota-01.png" width="auto">
-                                <div class="card-body">
-                                    <h2 class="fc-blanco">La venta de cerveza en el teatro</h2>
-                                    <h4 class="Grifter fc-blanco">por coco albarracin</h4>
+                        <div class="col-lg-4 wow bounceInUp">
+                            <div class="bg-blanco box-multimedia mb-4">
+                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
+                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
                                 </div>
-                                <a href="#" class="btn btn-custom-black">leer +</a>
+                                <div class="d-flex flex-column justify-content-between p-4">
+                                    <div>
+                                        <p>12 de enero de 2022</p>
+                                        <hr class="hr-black">
+                                        <h3>Comentario sobre la obra:</h3>
+                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                    </div>
+                                    <div class="text-center mt-4">
+                                        <a href="#" class="btn btn-custom-black">leer</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4 wow bounceInUp">
-                            <div class="card">
-                                <img src="assets/img/box-ultima-nota-02.png" width="auto">
-                                <div class="card-body">
-                                    <h2 class="fc-blanco">La venta de cerveza en el teatro</h2>
-                                    <h4 class="Grifter fc-blanco">por coco albarracin</h4>
+
+                        <div class="col-lg-4 wow bounceInUp">
+                            <div class="bg-blanco box-multimedia mb-4">
+                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
+                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
                                 </div>
-                                <a href="#" class="btn btn-custom-black">leer +</a>
+                                <div class="d-flex flex-column justify-content-between p-4">
+                                    <div>
+                                        <p>12 de enero de 2022</p>
+                                        <hr class="hr-black">
+                                        <h3>Comentario sobre la obra:</h3>
+                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                    </div>
+                                    <div class="text-center mt-4">
+                                        <a href="#" class="btn btn-custom-black">leer</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-4 mb-4 wow bounceInUp">
-                            <div class="card">
-                                <img src="assets/img/box-ultima-nota-03.png" width="auto">
-                                <div class="card-body">
-                                    <h2 class="fc-blanco">La venta de cerveza en el teatro</h2>
-                                    <h4 class="Grifter fc-blanco">por coco albarracin</h4>
+
+                        <div class="col-lg-4 wow bounceInUp">
+                            <div class="bg-blanco box-multimedia mb-4">
+                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
+                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
                                 </div>
-                                <a href="#" class="btn btn-custom-black">leer +</a>
+                                <div class="d-flex flex-column justify-content-between p-4">
+                                    <div>
+                                        <p>12 de enero de 2022</p>
+                                        <hr class="hr-black">
+                                        <h3>Comentario sobre la obra:</h3>
+                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
+                                    </div>
+                                    <div class="text-center mt-4">
+                                        <a href="#" class="btn btn-custom-black">leer</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="d-grid gap-2 wow bounceInUp">
-                            <a href="#" class="btn btn-custom-amarillo">ver más +</a>
+                            <a href="#" class="btn btn-custom-naranja">ver más +</a>
                         </div>
                     </div>
                 </div>

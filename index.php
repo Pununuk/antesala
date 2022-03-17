@@ -292,7 +292,7 @@
                 </div>
             </section>
 
-            <section class="bg-black pb-50 pt-50">
+            <section class="bg-black pb-100 pt-100">
                 <div class="container">
                     <div class="row mb-100" id="video">
                         <div class="col-12 text-center mb-4">
@@ -453,7 +453,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="d-flex flex-column justify-content-between p-4 p-md-5 order-2 order-md-1">
+                                <div class="d-flex flex-column justify-content-between p-4 order-2 order-md-1">
                                     <div>
                                         <p class="fc-blanco">12 de enero de 2022</p>
                                         <hr class="hr-white-01">
@@ -484,47 +484,47 @@
                                 <div class='carousel'>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-nmg.svg" width="20%" alt="">
+                                            <img src="assets/img/logo-01.png" alt="">
                                         </div>
                                     </div>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-cuenco.svg" width="20%" alt="">
+                                            <img src="assets/img/logo-02.png" alt="">
                                         </div>
                                     </div>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-red-de-salas.svg" width="20%" alt="">
+                                            <img src="assets/img/logo-03.png" alt="">
                                         </div>
                                     </div>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-ministerio-cultura.svg" width="100%" alt="">
+                                            <img src="assets/img/logo-04.png" alt="">
                                         </div>
                                     </div>                            
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-instituto-nacional-de-teatro.svg" width="100%" alt="">
+                                            <img src="assets/img/logo-05.png" alt="">
                                         </div>
                                     </div>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-instituto-nacional-de-teatro.svg" width="100%" alt="">
+                                            <img src="assets/img/logo-01.png" alt="">
                                         </div>
                                     </div>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-instituto-nacional-de-teatro.svg" width="100%" alt="">
+                                            <img src="assets/img/logo-02.png" alt="">
                                         </div>
                                     </div>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-instituto-nacional-de-teatro.svg" width="100%" alt="">
+                                            <img src="assets/img/logo-03.png" alt="">
                                         </div>
                                     </div>
                                     <div class='carousel__item'>
                                         <div class='carousel__item-body'>
-                                            <img src="assets/img/logo-instituto-nacional-de-teatro.svg" width="100%" alt="">
+                                            <img src="assets/img/logo-04.png" alt="">
                                         </div>
                                     </div>
                                 </div>

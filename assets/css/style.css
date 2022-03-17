@@ -74,9 +74,9 @@ element {
     overflow-y: scroll; 
 }
 element::-webkit-scrollbar {display: none; /* for Chrome, Safari, and Opera */}
-h1 {font-size: 52px;}
-h2 {font-size: 42px;}
-h3 {font-size: 32px;}
+h1 {font-size: 42px;}
+h2 {font-size: 36px;}
+h3 {font-size: 28px;}
 h4 {font-size: 22px;}
 h1, h2, h3 {font-family: var(--Grifter);}
 a {
@@ -190,7 +190,18 @@ ul {list-style: none;}
     color: white;
     background-color: var(--gris);
 }
-
+.btn-custom-naranja {
+    line-height: 1;
+    color: white;
+    padding: 12px 40px 10px;
+    border-radius: 50px;
+    background: var(--naranja);
+    font-family: var(--Grifter);
+}
+.btn-custom-naranja:hover {
+    color: white;
+    background-color: var(--gris);
+}
 .custom-navbar {    
     padding: 30px 0;
     background: white;
@@ -532,34 +543,6 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     transition: all .3s;
     text-decoration: none;
 }
-#news {
-    background: url(../img/bg-news.png) center no-repeat;
-    background-position-x: -100px;
-    background-size: 85%;
-}
-#news .card, #news-somos .card {
-    border: none;
-    height: 450px;
-    overflow: hidden;
-    border-radius: 30px;
-}
-#news .card-body, #news-somos .card-body {
-    padding: 40px;
-    background: rgba(0, 0, 0, .8);
-    position: absolute;
-}
-#news .btn-custom-black, #news-somos .btn-custom-black {
-    right: 20px;
-    bottom: 20px;
-    position: absolute;
-}
-
-#news .lottie-player, #video .lottie-player {
-    z-index: 1;
-    cursor: pointer;
-    position: absolute;
-}
-
 .modal-dialog {
     max-width: 800px;
     margin: 30px auto;
@@ -936,9 +919,9 @@ footer ul a {text-decoration: none;}
 footer ul a:hover {color: var(--amarillo);}
 
 @media only screen and (max-width: 767px) {
-    h1 {font-size: 42px;}
-    h2 {font-size: 32px;}
-    h3 {font-size: 28px;}
+    h1 {font-size: 32px;}
+    h2 {font-size: 28px;}
+    h3 {font-size: 22px;}
     h4 {font-size: 18px;}
     main {margin-top: 250px;}
     .pt-50 {padding-top: 25px;}
@@ -980,3 +963,9 @@ footer ul a:hover {color: var(--amarillo);}
   /* https://codepen.io/Taimoorkhan/pen/LYNbBRV */
 
   
+
+.bg-03-notas {
+    top:  -190px;
+    left: -50px;
+    position: absolute;
+}
