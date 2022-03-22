@@ -32,7 +32,7 @@
                     <li class="pb-2"><a href="#" class="GothamLight fc-blanco">Terminos y Condiciones</a></li>
                     <li class="pb-2"><a href="#" class="GothamLight fc-blanco">Políticas de Privacidad</a></li>
                     <li class="pb-2"><a href="#" class="GothamLight fc-blanco">Preguntas Frecuentes</a></li>
-                    <li><a href="#" class="GothamLight fc-blanco">info@antesala.com.ar</a></li>
+                    <li><a href="#" class="GothamLight fc-blanco">antesala.cordoba@gmail.com</a></li>
                 </ul>
             </div>
         </div>

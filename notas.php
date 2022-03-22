@@ -71,8 +71,8 @@
                                 <div>
                                     <p>12 de enero de 2022</p>
                                     <hr class="hr-black">
-                                    <h3>Comentario sobre la obra:</h3>
                                     <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                    <h3>Por Punu Vazquez</h3>
                                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                 </div>
                                 <div class="text-center">
@@ -95,8 +95,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -115,8 +115,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -135,8 +135,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -155,8 +155,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -175,8 +175,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -195,8 +195,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">

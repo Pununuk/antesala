@@ -74,32 +74,49 @@
                         <div class="col-12 text-center pt-100 pb-50 wow bounceInUp">
                             <h2>team antesala</h2>
                         </div>
-                        <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
-                            <div class="box-team">
-                                <img src="assets/img/img-team-01.png" width="100%" class="mb-4" alt="">
-                                <h3>Belén Pistone</h3>
-                                <p>coordinación comercial <br> y de contenidos</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="row d-flex justify-content-center">
+                                <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
+                                    <div class="box-team">
+                                        <img src="assets/img/img-team-01.jpg" width="100%" class="mb-4" alt="">
+                                        <h3>Belén Pistone</h3>
+                                        <p>coord. comercial y de contenidos</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
+                                    <div class="box-team">    
+                                        <img src="assets/img/img-team-02.jpg" width="100%" class="mb-4" alt="">
+                                        <h3>Lali Monayar</h3>
+                                        <p>coord. general</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
+                                    <div class="box-team">    
+                                        <img src="assets/img/img-team-03.jpg" width="100%" class="mb-4" alt="">
+                                        <h3>Rodri Brunelli</h3>
+                                        <p>coord. de arte y web</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
-                            <div class="box-team">    
-                                <img src="assets/img/img-team-02.png" width="100%" class="mb-4" alt="">
-                                <h3>Lali Monayar</h3>
-                                <p>coordinación general</p>
-                            </div>
-                        </div>
-                        <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
-                            <div class="box-team">    
-                                <img src="assets/img/img-team-03.png" width="100%" class="mb-4" alt="">
-                                <h3>Rodri Brunelli</h3>
-                                <p>coordinación de arte y web</p>
-                            </div>
-                        </div>
-                        <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
-                            <div class="box-team">    
-                                <img src="assets/img/img-team-none.png" width="100%" class="mb-4" alt="">
-                                <h3>Daniela Medrano</h3>
-                                <p>contabilidad y administración</p>
+                        <div class="col-md-12">
+                            <div class="row d-flex justify-content-center">
+                                <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
+                                    <div class="box-team">
+                                        <img src="assets/img/img-team-04.jpg" width="100%" class="mb-4" alt="">
+                                        <h3>Flavia Pipliza</h3>
+                                        <p>legales</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
+                                    <div class="box-team">    
+                                        <img src="assets/img/img-team-05.jpg" width="100%" class="mb-4" alt="">
+                                        <h3>Daniela Medrano</h3>
+                                        <p>contabilidad y administración</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -122,8 +139,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -132,7 +149,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
@@ -142,8 +158,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -152,7 +168,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
@@ -162,8 +177,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h3>Comentario sobre la obra:</h3>
                                         <h1 class="fc-amarillo">"El pucho en la boca"</h1>
+                                        <h3>Por Punu Vazquez</h3>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
