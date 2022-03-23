@@ -422,11 +422,11 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     position: relative;
     border-radius: 20px 20px 0 0;
 }
-#eventos .img-evento img {
+/* #eventos .img-evento img {
     top: -50%;
     left: -50%;
     position: absolute;
-}
+} */
 #eventos .img-evento .tag-evento {
     top: 20px;
     left: 20px;
