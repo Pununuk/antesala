@@ -26,20 +26,16 @@
                                 <h1 class="fc-blanco">Notas</h1>
                                 <div class="title">
                                     <h2>Antesala</h2>
-                                    <span>movie</span>
-                                </div>
-                                <div class="name">
-                                    <h2>Vladimir Kudinov</h2>
-                                    <span>name</span>
+                                    <span>sala</span>
                                 </div>
                                 <div>
                                     <div class="seat">
                                         <h2>156</h2>
-                                        <span>seat</span>
+                                        <span>asiento</span>
                                     </div>
                                     <div class="time">
                                         <h2>12:00</h2>
-                                        <span>time</span>
+                                        <span>hora</span>
                                     </div>
                                 </div>
                             </div>
@@ -71,8 +67,8 @@
                                 <div>
                                     <p>12 de enero de 2022</p>
                                     <hr class="hr-black">
-                                    <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                    <h3>Por Punu Vazquez</h3>
+                                    <h2 class="fc-amarillo">"El pucho en la boca"</h2>
+                                    <p class="Grifter">Por Punu Vazquez</p>
                                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                 </div>
                                 <div class="text-center">
@@ -95,8 +91,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
+                                        <h2 class="fc-amarillo">"El pucho en la boca"</h2>
+                                        <p class="Grifter">Por Punu Vazquez</p>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -115,8 +111,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
+                                        <h2 class="fc-amarillo">"El pucho en la boca"</h2>
+                                        <p class="Grifter">Por Punu Vazquez</p>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -135,8 +131,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
+                                        <h2 class="fc-amarillo">"El pucho en la boca"</h2>
+                                        <p class="Grifter">Por Punu Vazquez</p>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -155,8 +151,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
+                                        <h2 class="fc-amarillo">"El pucho en la boca"</h2>
+                                        <p class="Grifter">Por Punu Vazquez</p>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -175,8 +171,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
+                                        <h2 class="fc-amarillo">"El pucho en la boca"</h2>
+                                        <p class="Grifter">Por Punu Vazquez</p>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -195,8 +191,8 @@
                                     <div>
                                         <p>12 de enero de 2022</p>
                                         <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
+                                        <h2 class="fc-amarillo">"El pucho en la boca"</h2>
+                                        <p class="Grifter">Por Punu Vazquez</p>
                                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
                                     </div>
                                     <div class="text-center mt-4">
@@ -211,7 +207,7 @@
                     </div>  
                 </div>
             </section>
-        
+            <?php include 'includes/subscription.php';?>
         </main>
         
         <?php include 'includes/footer.php';?>

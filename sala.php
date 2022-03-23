@@ -28,20 +28,16 @@
                                 <h1 class="fc-blanco">El Cuenco</h1>
                                 <div class="title">
                                     <h2>Antesala</h2>
-                                    <span>movie</span>
-                                </div>
-                                <div class="name">
-                                    <h2>Vladimir Kudinov</h2>
-                                    <span>name</span>
+                                    <span>sala</span>
                                 </div>
                                 <div>
                                     <div class="seat">
                                         <h2>156</h2>
-                                        <span>seat</span>
+                                        <span>asiento</span>
                                     </div>
                                     <div class="time">
                                         <h2>12:00</h2>
-                                        <span>time</span>
+                                        <span>hora</span>
                                     </div>
                                 </div>
                             </div>
@@ -139,7 +135,7 @@
             </section>
 
             <section id="eventos" class="eventos-salas pb-100 pt-100">
-                <img src="assets/img/bg-news-somos.png" class="img" alt="">
+                
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
@@ -185,7 +181,7 @@
                     </div>
                 </div>
             </section>
-        
+            <?php include 'includes/subscription.php';?>
         </main>
         
         <?php include 'includes/footer.php';?>

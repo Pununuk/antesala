@@ -11,8 +11,7 @@
                     <li class="pb-2"><a href="#" class="GothamLight fc-blanco">Cómo Comprar?</a></li>
                     <li class="pb-2"><a href="#" class="GothamLight fc-blanco">Medios de Pago</a></li>
                     <li class="pb-2"><a href="#" class="GothamLight fc-blanco">Publicá tu evento</a></li>
-                    <li class="pb-2"><a href="#" class="GothamLight fc-blanco">Pautá con nosotrxs</a></li>
-                    <li><a href="#" class="GothamLight fc-blanco">Contáctanos</a></li>
+                    <li><a href="#" class="GothamLight fc-blanco">Pautá con nosotrxs</a></li>
                 </ul>
             </div>
             <div class="col-md-3">

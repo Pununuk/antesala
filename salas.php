@@ -25,20 +25,16 @@
                                 <h1 class="fc-blanco">Salas</h1>
                                 <div class="title">
                                     <h2>Antesala</h2>
-                                    <span>movie</span>
-                                </div>
-                                <div class="name">
-                                    <h2>Vladimir Kudinov</h2>
-                                    <span>name</span>
+                                    <span>sala</span>
                                 </div>
                                 <div>
                                     <div class="seat">
                                         <h2>156</h2>
-                                        <span>seat</span>
+                                        <span>asiento</span>
                                     </div>
                                     <div class="time">
                                         <h2>12:00</h2>
-                                        <span>time</span>
+                                        <span>hora</span>
                                     </div>
                                 </div>
                             </div>
@@ -198,9 +194,7 @@
                     </div>
                 </div>
             </section>
-
-
-        
+            <?php include 'includes/subscription.php';?>        
         </main>
         
         <?php include 'includes/footer.php';?>
