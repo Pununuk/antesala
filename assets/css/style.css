@@ -93,7 +93,7 @@ ul {list-style: none;}
 /* Utilities */
 .z-1 {z-index: 1;}
 .br-10 {border-radius: 10px;}
-.br-30 {border-radius: 30px;}
+.br-30 {border-radius: 20px;}
 .pt-50 {padding-top: 50px;}
 .pb-50 {padding-bottom: 50px;}
 .pt-100 {padding-top: 100px;}
@@ -249,7 +249,7 @@ ul {list-style: none;}
     left: 50px;
     position: absolute;
 }
-#header .owl-carousel img {border-radius: 30px;}
+#header .owl-carousel img {border-radius: 20px;}
 
 #header .owl-carousel h5 {font-size: 80px;}
 #header .owl-carousel p {
@@ -272,7 +272,7 @@ ul {list-style: none;}
     width: 30%;
     height: 500px;
     position: relative;
-    border-radius: 30px;
+    border-radius: 20px;
     transition: all .3s;
 }
 
@@ -294,7 +294,7 @@ ul {list-style: none;}
 .tag-evento { 
     color: white;
     padding: 12px 20px;
-    border-radius: 30px;
+    border-radius: 20px;
     background: var(--naranja);
     font-family: var(--GothamLight);
 }
@@ -380,7 +380,7 @@ button.switch-month {
 button.switch-month:hover svg path {fill: var(--amarillo);}
 #eventos h4 {font-size: 25px;}
 #eventos .box-eventos {
-    border-radius: 30px;
+    border-radius: 20px;
     background: white;
     border: 1px solid var(--grisClaro);
 }
@@ -420,7 +420,12 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     height: 300px;
     overflow: hidden;
     position: relative;
-    border-radius: 30px 30px 0 0;
+    border-radius: 20px 20px 0 0;
+}
+#eventos .img-evento img {
+    top: -50%;
+    left: -50%;
+    position: absolute;
 }
 #eventos .img-evento .tag-evento {
     top: 20px;
@@ -484,7 +489,7 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
 /* Section Cartelera */
 .box-actualidad {
     position: relative;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 .box-actualidad h2 {
@@ -499,13 +504,13 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
 }
 #actualidad .box-cartelera {
     padding: 80px 0;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 #actualidad .card {
     border: none;
     height: 400px;
     overflow: hidden;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 #actualidad .card-body {
     padding: 40px;
@@ -516,7 +521,7 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     height: 50%;
     padding: 30px;
     position: absolute;
-    border-radius: 30px;
+    border-radius: 20px;
     background: var(--naranja);
     transition: all 350ms cubic-bezier(0, 0, 0.2, 1);
 } 

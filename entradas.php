@@ -231,7 +231,7 @@
                                 <div class="col-12">
                                     <hr class="wow bounceInUp">
                                 </div>
-                                <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
+                                <div class="col-md-6 col-lg-4 wow bounceInUp mb-4 pe-3 ps-3">
                                     <div class="box-eventos text-center">
                                         <div class="img-evento">
                                             <span class="tag-evento">Teatro</span>
@@ -245,7 +245,7 @@
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
                                 </div>
-                                <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
+                                <div class="col-md-6 col-lg-4 wow bounceInUp mb-4 pe-3 ps-3">
                                     <div class="box-eventos text-center">
                                         <div class="img-evento">
                                             <span class="tag-evento">Teatro</span>
@@ -258,7 +258,7 @@
                                         <a href="#" class="btn btn-custom-black disabled mb-4">agotado</a>
                                     </div>
                                 </div>
-                                <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
+                                <div class="col-md-6 col-lg-4 wow bounceInUp mb-4 pe-3 ps-3">
                                     <div class="box-eventos text-center">
                                         <div class="img-evento">
                                             <span class="tag-evento">Teatro</span>
@@ -271,7 +271,7 @@
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
                                 </div>
-                                <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
+                                <div class="col-md-6 col-lg-4 wow bounceInUp mb-4 pe-3 ps-3">
                                     <div class="box-eventos text-center">
                                         <div class="img-evento">
                                             <span class="tag-evento">Teatro</span>
@@ -284,7 +284,7 @@
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
                                 </div>
-                                <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
+                                <div class="col-md-6 col-lg-4 wow bounceInUp mb-4 pe-3 ps-3">
                                     <div class="box-eventos text-center">
                                         <div class="img-evento">
                                             <span class="tag-evento">Teatro</span>
@@ -297,7 +297,7 @@
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
                                 </div>
-                                <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
+                                <div class="col-md-6 col-lg-4 wow bounceInUp mb-4 pe-3 ps-3">
                                     <div class="box-eventos text-center">
                                         <div class="img-evento">
                                             <span class="tag-evento">Teatro</span>
