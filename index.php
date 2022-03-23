@@ -282,7 +282,8 @@
                 </div>
             </section>
 
-            <section class="bg-black pb-100 pt-100">
+            <section class="bg-black pb-100 pt-100 position-relative">
+                <img src="assets/img/bg-07.svg" class="bg-07-index">
                 <div class="container">
                     <div class="row mb-100" id="video">
                         <div class="col-12 text-center mb-4">

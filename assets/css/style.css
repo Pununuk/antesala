@@ -802,6 +802,15 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     overflow: hidden;
     position: relative;
 }
+
+
+#video .bg-01-video {
+    top: 50%;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+}
+
 #video .header-box {
     height: 300px;
     overflow: hidden;
@@ -926,5 +935,12 @@ footer ul a:hover {color: var(--amarillo);}
     top: 50%;
     right: -400px;
     z-index: -1;
+    position: absolute;
+}
+
+.bg-07-index {
+    top: 50%;
+    right: 0;
+    width: 20%;
     position: absolute;
 }

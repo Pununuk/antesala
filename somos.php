@@ -43,14 +43,14 @@
                         <div class="col-4 col-md-3 ps-0">
                             <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
                                 <div class="text-center">
-                                    <img src="assets/img/iso-antesala.svg" alt="">
+                                    <img src="assets/img/iso-antesala.svg">
                                 </div>
                                 <div class="number">
                                     <h3>156</h3>
                                     <span>asiento</span>
                                 </div>
                                 <div class="text-center">
-                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
+                                    <img class="barchart" src="assets/img/barcode.svg">
                                 </div>
                             </div>
                         </div>
@@ -77,21 +77,21 @@
                             <div class="row d-flex justify-content-center">
                                 <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
                                     <div class="box-team">
-                                        <img src="assets/img/img-team-01.jpg" width="100%" class="mb-4" alt="">
+                                        <img src="assets/img/img-team-01.jpg" width="100%" class="mb-4">
                                         <h3>Belén Pistone</h3>
                                         <p>coord. comercial y de contenidos</p>
                                     </div>
                                 </div>
                                 <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
                                     <div class="box-team">    
-                                        <img src="assets/img/img-team-02.jpg" width="100%" class="mb-4" alt="">
+                                        <img src="assets/img/img-team-02.jpg" width="100%" class="mb-4">
                                         <h3>Lali Monayar</h3>
                                         <p>coord. general</p>
                                     </div>
                                 </div>
                                 <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
                                     <div class="box-team">    
-                                        <img src="assets/img/img-team-03.jpg" width="100%" class="mb-4" alt="">
+                                        <img src="assets/img/img-team-03.jpg" width="100%" class="mb-4">
                                         <h3>Rodri Brunelli</h3>
                                         <p>coord. de arte y web</p>
                                     </div>
@@ -102,14 +102,14 @@
                             <div class="row d-flex justify-content-center">
                                 <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
                                     <div class="box-team">
-                                        <img src="assets/img/img-team-04.jpg" width="100%" class="mb-4" alt="">
+                                        <img src="assets/img/img-team-04.jpg" width="100%" class="mb-4">
                                         <h3>Flavia Pipliza</h3>
                                         <p>legales</p>
                                     </div>
                                 </div>
                                 <div class="col-md-3 d-flex flex-column justify-content-center text-center mb-4 wow bounceInUp">
                                     <div class="box-team">    
-                                        <img src="assets/img/img-team-05.jpg" width="100%" class="mb-4" alt="">
+                                        <img src="assets/img/img-team-05.jpg" width="100%" class="mb-4">
                                         <h3>Daniela Medrano</h3>
                                         <p>contabilidad y administración</p>
                                     </div>
@@ -117,12 +117,12 @@
                             </div>
                         </div>
                     </div>
-                    <img src="assets/img/bg-04.svg" class="img" alt="">
+                    <img src="assets/img/bg-04.svg" class="img">
                 </div>
             </section>
             
             <section id="news-somos" class="pb-100 pt-100">
-                <img src="assets/img/bg-03.svg" class="img-01" alt="">
+                <img src="assets/img/bg-03.svg" class="img-01">
                 <div class="container position-relative">
                     <div class="row mb-100">
                         <div class="col-12 text-center mb-4">
@@ -131,7 +131,7 @@
                         <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                 </div>
                                 <div class="d-flex flex-column justify-content-between p-4">
                                     <div>
@@ -150,7 +150,7 @@
                         <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                 </div>
                                 <div class="d-flex flex-column justify-content-between p-4">
                                     <div>
@@ -169,7 +169,7 @@
                         <div class="col-lg-4 wow bounceInUp">
                             <div class="bg-blanco box-multimedia mb-4">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                 </div>
                                 <div class="d-flex flex-column justify-content-between p-4">
                                     <div>

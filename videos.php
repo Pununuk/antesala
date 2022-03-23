@@ -43,14 +43,14 @@
                         <div class="col-4 col-md-3 ps-0">
                             <div class="card-ticket cardRight d-flex flex-column justify-content-around position-relative">
                                 <div class="text-center">
-                                    <img src="assets/img/iso-antesala.svg" alt="">
+                                    <img src="assets/img/iso-antesala.svg">
                                 </div>
                                 <div class="number">
                                     <h3>156</h3>
                                     <span>asiento</span>
                                 </div>
                                 <div class="text-center">
-                                    <img class="barchart" src="assets/img/barcode.svg" alt="">
+                                    <img class="barchart" src="assets/img/barcode.svg">
                                 </div>
                             </div>
                         </div>
@@ -64,7 +64,7 @@
                         <div class="col-lg-6">
                             <div class="bg-naranja box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                     <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                         <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_avzk3oss.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop autoplay></lottie-player>
                                     </a>
@@ -92,7 +92,7 @@
                         <div class="col-lg-6">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                     <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                         <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_avzk3oss.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop autoplay></lottie-player>
                                     </a>
@@ -121,7 +121,7 @@
                         <div class="col-lg-4">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                     <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                         <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_avzk3oss.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop autoplay></lottie-player>
                                     </a>
@@ -148,7 +148,7 @@
                         <div class="col-lg-4">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                     <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                         <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_avzk3oss.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop autoplay></lottie-player>
                                     </a>
@@ -175,7 +175,7 @@
                         <div class="col-lg-4">
                             <div class="bg-gris-oscuro box-multimedia mb-4 wow bounceInUp">
                                 <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%" alt="">
+                                    <img src="assets/img/img-multimedia.png" width="100%">
                                     <a class="lottie-player" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                         <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_avzk3oss.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop autoplay></lottie-player>
                                     </a>
@@ -200,10 +200,11 @@
                             </div>
                         </div>
                         <div class="d-grid gap-2 wow bounceInUp">
-                            <a href="#" class="btn btn-custom-amarillo">ver más +</a>
+                            <a href="#" class="btn btn-custom-naranja">ver más +</a>
                         </div>
                     </div>  
                 </div>
+                <img src="assets/img/bg-06.svg" class="bg-01-video">
             </section>
             <?php include 'includes/subscription.php';?>
         </main>
