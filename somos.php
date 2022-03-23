@@ -58,7 +58,7 @@
                 </div>
             </section>
 
-            <section id="team" class="mt-100 position-relative">
+            <section id="team" class="mt-100 pb-100 position-relative">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -120,77 +120,7 @@
                     <img src="assets/img/bg-04.svg" class="img">
                 </div>
             </section>
-            
-            <section id="news-somos" class="pb-100 pt-100">
-                <img src="assets/img/bg-03.svg" class="img-01">
-                <div class="container position-relative">
-                    <div class="row mb-100">
-                        <div class="col-12 text-center mb-4">
-                            <h2 class="fc-blanco wow bounceInUp">últimas notas y entrevistas</h2>
-                        </div>
-                        <div class="col-lg-4 wow bounceInUp">
-                            <div class="bg-blanco box-multimedia mb-4">
-                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%">
-                                </div>
-                                <div class="d-flex flex-column justify-content-between p-4">
-                                    <div>
-                                        <p>12 de enero de 2022</p>
-                                        <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
-                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
-                                    </div>
-                                    <div class="text-center mt-4">
-                                        <a href="#" class="btn btn-custom-black">leer</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 wow bounceInUp">
-                            <div class="bg-blanco box-multimedia mb-4">
-                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%">
-                                </div>
-                                <div class="d-flex flex-column justify-content-between p-4">
-                                    <div>
-                                        <p>12 de enero de 2022</p>
-                                        <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
-                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
-                                    </div>
-                                    <div class="text-center mt-4">
-                                        <a href="#" class="btn btn-custom-black">leer</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 wow bounceInUp">
-                            <div class="bg-blanco box-multimedia mb-4">
-                                <div class="header-box position-relative d-flex align-items-center justify-content-center">
-                                    <img src="assets/img/img-multimedia.png" width="100%">
-                                </div>
-                                <div class="d-flex flex-column justify-content-between p-4">
-                                    <div>
-                                        <p>12 de enero de 2022</p>
-                                        <hr class="hr-black">
-                                        <h1 class="fc-amarillo">"El pucho en la boca"</h1>
-                                        <h3>Por Punu Vazquez</h3>
-                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis rerum sapiente accusantium, facilis labore exercitationem odio perferendis cum veniam quam!</p>
-                                    </div>
-                                    <div class="text-center mt-4">
-                                        <a href="#" class="btn btn-custom-black">leer</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="d-grid gap-2 wow bounceInUp">
-                            <a href="#" class="btn btn-custom-naranja">ver más +</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+    
             <?php include 'includes/subscription.php';?>
         </main>
         

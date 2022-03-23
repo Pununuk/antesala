@@ -109,7 +109,7 @@
                 </div>
             </section>
 
-            <section class="mt-5">
+            <section class="mt-5 pb-100">
                 <div class="container wow bounceInUp">
                     <div class="row">
                         <div class="col-12">
@@ -134,53 +134,6 @@
                 </div>
             </section>
 
-            <section id="eventos" class="eventos-salas pb-100 pt-100">
-                
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
-                            <div class="box-eventos text-center">
-                                <div class="img-evento">
-                                    <span class="tag-evento">Teatro</span>
-                                    <span class="tag-descuento">%20</span>
-                                    <img src="assets/img/img-teatro-01.png" width="auto" alt="">
-                                </div>
-                                <p class="teatro mt-4">El Cuenco Teatro</p>
-                                <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                <p class="mb-0 mt-3">Desde</p>
-                                <p class="precio fc-violeta mt-2">$800<span>$900</span></p>
-                                <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
-                            </div>
-                        </div>
-                        <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
-                            <div class="box-eventos text-center">
-                                <div class="img-evento">
-                                    <span class="tag-evento">Teatro</span>
-                                    <img src="assets/img/img-teatro-02.png" width="auto" alt="">
-                                </div>
-                                <p class="teatro mt-4">El Cuenco Teatro</p>
-                                <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                <p class="mb-0 mt-3">Desde</p>
-                                <p class="precio mt-2">$700</p>
-                                <a href="#" class="btn btn-custom-black disabled mb-4">agotado</a>
-                            </div>
-                        </div>
-                        <div class="col-md-4 wow bounceInUp mb-4 pe-3 ps-3">
-                            <div class="box-eventos text-center">
-                                <div class="img-evento">
-                                    <span class="tag-evento">Teatro</span>
-                                    <img src="assets/img/img-teatro-03.png" width="auto" alt="">
-                                </div>
-                                <p class="teatro mt-4">El Cuenco Teatro</p>
-                                <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                <p class="mb-0 mt-3">Desde</p>
-                                <p class="precio mt-2">$800</p>
-                                <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <?php include 'includes/subscription.php';?>
         </main>
         

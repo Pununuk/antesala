@@ -465,7 +465,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <img src="assets/img/banner.jpg" width="100%" alt="">
+                            <img src="assets/img/banner-int.png" width="100%" alt="">
                         </div>
                     </div>
                 </div>
