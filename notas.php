@@ -58,8 +58,9 @@
                 </div>
             </section>
 
-            <section class="bg-amarillo pt-100 pb-100 mt-100 position-relative wow bounceInUp">
-            <img src="assets/img/bg-03.svg" class="bg-03-notas">
+            <section class="bg-amarillo pt-100 pb-100 mt-100 position-relative z-1 wow bounceInUp">
+                <img src="assets/img/bg-03.svg" class="bg-03-notas">
+                <img src="assets/img/bg-01.svg" class="bg-01-notas">
                 <div class="container">
                     <div class="bg-blanco box-multimedia mb-4 wow bounceInUp position-relative">
                         <div class="row">

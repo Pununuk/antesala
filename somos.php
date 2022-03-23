@@ -57,7 +57,8 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-100">
+
+            <section id="team" class="mt-100 position-relative">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -116,6 +117,7 @@
                             </div>
                         </div>
                     </div>
+                    <img src="assets/img/bg-04.svg" class="img" alt="">
                 </div>
             </section>
             
