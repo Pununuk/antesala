@@ -25,24 +25,24 @@
                         <div class="col-12">
                             <div class="owl-carousel owl-theme">
                                 <div class="item">
-                                    <img src="assets/img/img-carousel.png">
-                                    <div class="body-carusel">
+                                    <img src="assets/img/slider-fiesta-01.jpg">
+                                    <!-- <div class="body-carusel">
                                         <h5 class="Grifter fc-gris-claro">PROGRAMACIÓN <br>2022</h5>
                                         <p class="GothamBold">Some representative placeholder content for the first slide.</p>
                                         <div class="mt-4">
                                             <a href="#" class="btn btn-custom">Ver más +</a>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="item">
-                                    <img src="assets/img/img-carousel.png">
-                                    <div class="body-carusel">
+                                    <img src="assets/img/slider-fiesta-02.png">
+                                    <!-- <div class="body-carusel">
                                         <h5 class="Grifter fc-gris-claro">PROGRAMACIÓN <br>2022</h5>
                                         <p class="GothamBold">Some representative placeholder content for the first slide.</p>
                                         <div class="mt-4">
                                             <a href="#" class="btn btn-custom">Ver más +</a>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="owl-dots">
                                 </div>
