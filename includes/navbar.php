@@ -28,6 +28,9 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="#">Teatros</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="../assets/img/grilla.pdf" target="blank">Festivales</a>
+                </li>
             </ul>
             <hr>
             <select class="form-select form-select">
@@ -78,6 +81,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="salas.php">Salas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/assets/pdf/grilla.pdf" target="blank">Festivales</a>
                     </li>
                 </ul>
             </div>
