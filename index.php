@@ -281,7 +281,15 @@
                     </div>
                 </div>
             </section>
-
+            <section id="publicidad" class="d-flex align-items-center pb-100 wow bounceInUp">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <img src="assets/img/banner-int.png" width="100%" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
             <section class="bg-black pb-100 pt-100 position-relative">
                 <img src="assets/img/bg-07.svg" class="bg-07-index">
                 <div class="container">
@@ -461,15 +469,7 @@
                     </div>
                 </div>
             </section>
-            <section id="publicidad" class="d-flex align-items-center mt-100 pb-100 wow bounceInUp">
-                <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <img src="assets/img/banner-int.png" width="100%" alt="">
-                        </div>
-                    </div>
-                </div>
-            </section>  
+            
             <section id="apoyo" class="wow bounceInUp">
                 <div class="container">
                     <div class="row">
