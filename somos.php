@@ -111,7 +111,8 @@
                                     <div class="box-team">    
                                         <img src="assets/img/img-team-05.jpg" width="100%" class="mb-4">
                                         <h3>Daniela Medrano</h3>
-                                        <p>contabilidad y administración</p>
+                                        <p class="mb-2">contabilidad y administración</p>
+                                        <p class="mb-0">M.P. 10-17936-9</p>
                                     </div>
                                 </div>
                             </div>

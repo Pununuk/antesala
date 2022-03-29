@@ -240,7 +240,6 @@
                                         </div>
                                         <p class="teatro mt-4">El Cuenco Teatro</p>
                                         <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                        <p class="mb-0 mt-3">Desde</p>
                                         <p class="precio fc-violeta mt-2">$800<span>$900</span></p>
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
@@ -253,7 +252,6 @@
                                         </div>
                                         <p class="teatro mt-4">El Cuenco Teatro</p>
                                         <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                        <p class="mb-0 mt-3">Desde</p>
                                         <p class="precio mt-2">$700</p>
                                         <a href="#" class="btn btn-custom-black disabled mb-4">agotado</a>
                                     </div>
@@ -266,7 +264,6 @@
                                         </div>
                                         <p class="teatro mt-4">El Cuenco Teatro</p>
                                         <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                        <p class="mb-0 mt-3">Desde</p>
                                         <p class="precio mt-2">$800</p>
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
@@ -279,7 +276,6 @@
                                         </div>
                                         <p class="teatro mt-4">El Cuenco Teatro</p>
                                         <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                        <p class="mb-0 mt-3">Desde</p>
                                         <p class="precio mt-2">$800</p>
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
@@ -292,7 +288,6 @@
                                         </div>
                                         <p class="teatro mt-4">El Cuenco Teatro</p>
                                         <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                        <p class="mb-0 mt-3">Desde</p>
                                         <p class="precio mt-2">$800</p>
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>
@@ -305,7 +300,6 @@
                                         </div>
                                         <p class="teatro mt-4">El Cuenco Teatro</p>
                                         <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                        <p class="mb-0 mt-3">Desde</p>
                                         <p class="precio mt-2">$800</p>
                                         <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                     </div>

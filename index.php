@@ -106,7 +106,6 @@
                                             </div>
                                             <p class="teatro mt-4">El Cuenco Teatro</p>
                                             <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                            <p class="mb-0 mt-3">Desde</p>
                                             <p class="precio fc-violeta mt-2">$800<span>$900</span></p>
                                             <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                         </div>
@@ -121,7 +120,6 @@
                                             </div>
                                             <p class="teatro mt-4">El Cuenco Teatro</p>
                                             <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                            <p class="mb-0 mt-3">Desde</p>
                                             <p class="precio mt-2">$700</p>
                                             <a href="#" class="btn btn-custom-black disabled mb-4">agotado</a>
                                         </div>
@@ -136,7 +134,6 @@
                                             </div>
                                             <p class="teatro mt-4">El Cuenco Teatro</p>
                                             <h1 class="obra mt-2">Mi nombre es Eva Duarte</h1>
-                                            <p class="mb-0 mt-3">Desde</p>
                                             <p class="precio mt-2">$800</p>
                                             <a href="ticket.php" class="btn btn-custom-amarillo mb-4">comprar</a>
                                         </div>
@@ -248,32 +245,32 @@
                                 <h4 class="Grifter fc-blanco text-center m-0">cursos</h4>
                             </a>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
+                        <div class="col-12 d-flex justify-content-center mb-2 wow bounceInUp d-block d-md-none">
                             <a href="podcast.php" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">podcast</h4>
                             </a>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
+                        <div class="col-12 d-flex justify-content-center mb-2 wow bounceInUp d-block d-md-none">
                             <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">videos</h4>
                             </a>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
+                        <div class="col-12 d-flex justify-content-center mb-2 wow bounceInUp d-block d-md-none">
                             <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">entrevistas y notas</h4>
                             </a>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
+                        <div class="col-12 d-flex justify-content-center mb-2 wow bounceInUp d-block d-md-none">
                             <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">cartelera</h4>
                             </a>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
+                        <div class="col-12 d-flex justify-content-center mb-2 wow bounceInUp d-block d-md-none">
                             <a href="#" class="rectangulo-enlace bg-black d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">salas</h4>
                             </a>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mb-4 wow bounceInUp d-block d-md-none">
+                        <div class="col-12 d-flex justify-content-center mb-2 wow bounceInUp d-block d-md-none">
                             <a href="#" class="rectangulo-enlace bg-naranja d-flex align-items-center justify-content-center">
                                 <h4 class="Grifter fc-blanco text-center m-0">cursos</h4>
                             </a>
@@ -281,7 +278,7 @@
                     </div>
                 </div>
             </section>
-            <section id="publicidad" class="d-flex align-items-center pb-100 wow bounceInUp">
+            <section class="d-flex align-items-center pb-100 wow bounceInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col">

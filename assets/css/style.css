@@ -554,10 +554,6 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     margin: 30px auto;
 }
 
-#publicidad {
-    height: 400px;
-    overflow: hidden;
-}
 #news-somos, .eventos-salas {
     margin-top: 150px;
     position: relative;
@@ -880,56 +876,6 @@ button.switch-month:hover svg path {fill: var(--amarillo);}
     color: #a2aeae;
 }
 
-
-footer h1 {
-    font-size: 24px;
-    text-transform: uppercase;
-}
-footer ul a {text-decoration: none;}
-footer ul a:hover {color: var(--amarillo);}
-
-@media only screen and (max-width: 767px) {
-    h1 {font-size: 32px;}
-    h2 {font-size: 28px;}
-    h3 {font-size: 22px;}
-    h4 {font-size: 18px;}
-    main {margin-top: 250px;}
-    .pt-50 {padding-top: 25px;}
-    .pb-50 {padding-bottom: 25px;}
-    .pt-100 {padding-top: 50px;}
-    .pb-100 {padding-bottom: 50px;}
-    .mt-100 {margin-top: 50px;}
-    .mb-100 {margin-bottom: 50px;}
-    .mb-200 {margin-bottom: 200px;}
-    #header {
-        padding-bottom: 50px;
-        background: none;
-    }
-    nav .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {border-radius: 0 50px 50px 0;}
-    #apoyo {padding: 80px 0 280px;}
-    .carousel-caption {bottom: 25%}
-    #news-somos {margin-top: 150px;}
-    #news-somos .img {top: -40px}
-    #news-somos .img-01 {
-        width: 35%;
-        right: -40px;
-        top: -130px;
-    }
-    .box-team img {width: 60%;}
-    #salas {margin-top: 50px;}
-    #news-somos .img, .eventos-salas .img, #salas .img {top: -41px;}
-    .box-multimedia img {
-        border-radius: 20px 20px 0 0;
-        width: 100%;
-    }
-    #podcast .header-box {
-        height: 300px;
-        overflow: hidden;
-    }
-    .barchart {width: 90%;}
-}
-
-
 .bg-03-notas {
     top:  -190px;
     left: -50px;
@@ -948,4 +894,55 @@ footer ul a:hover {color: var(--amarillo);}
     right: 0;
     width: 20%;
     position: absolute;
+}
+
+footer h1 {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+footer ul a {text-decoration: none;}
+footer ul a:hover {color: var(--amarillo);}
+
+@media only screen and (max-width: 767px) {
+    h1 {font-size: 32px;}
+    h2 {font-size: 28px;}
+    h3 {font-size: 22px;}
+    h4 {font-size: 18px;}
+    main {margin-top: 150px;}
+    .pt-50 {padding-top: 25px;}
+    .pb-50 {padding-bottom: 25px;}
+    .pt-100 {padding-top: 50px;}
+    .pb-100 {padding-bottom: 50px;}
+    .mt-100 {margin-top: 50px;}
+    .mb-100 {margin-bottom: 50px;}
+    .mb-200 {margin-bottom: 200px;}
+    #header {
+        padding-bottom: 50px;
+        background: none;
+    }
+    nav .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {border-radius: 0 50px 50px 0;}
+    .custom-navbar {padding: 15px 0;}
+    #apoyo {padding: 80px 0 280px;}
+    .carousel-caption {bottom: 25%}
+    #eventos .img-evento {height: 200px;}
+    #news-somos {margin-top: 150px;}
+    #news-somos .img {top: -40px}
+    #news-somos .img-01 {
+        width: 35%;
+        right: -40px;
+        top: -130px;
+    }
+    .box-team img {width: 60%;}
+    #salas {margin-top: 50px;}
+    #news-somos .img, .eventos-salas .img, #salas .img {top: -41px;}
+    .box-multimedia img {
+        border-radius: 20px 20px 0 0;
+        width: 100%;
+    }
+    #podcast .header-box, #video .header-box {
+        height: 200px;
+        overflow: hidden;
+    }
+    .barchart {width: 90%;}
+    .bg-03-notas, .bg-07-index {display: none;}
 }

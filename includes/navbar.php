@@ -38,13 +38,14 @@
                 <option value="1">Rosario</option>
                 <option value="2">Buenos Aires</option>
                 <option value="3">Santa Fé</option>
-            </select>            
+            </select>
+            <div class="input-group flex-nowrap mt-4">
+                <input type="text" class="form-control" placeholder="Buscar..." aria-label="" aria-describedby="addon-wrapping">
+                <span class="input-group-text" id="addon-wrapping"><img src="assets/img/search.png" width="20px" alt=""></span>
+            </div>                     
         </div>
         
-        <div class="input-group flex-nowrap mt-4">
-            <input type="text" class="form-control" placeholder="Buscar..." aria-label="" aria-describedby="addon-wrapping">
-            <span class="input-group-text" id="addon-wrapping"><img src="assets/img/search.png" width="20px" alt=""></span>
-        </div>
+        
     </div>
 </nav>
 

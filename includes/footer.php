@@ -1,8 +1,8 @@
 <footer class="bg-black pt-100">
     <div class="container">
         <div class="row">
-            <div class="col-md-3 d-flex align-self-center justify-content-center justify-content-md-starts mb-4 mb-md-0">
-                <img src="assets/img/antesala-logo-white.svg" width="80%" alt="">
+            <div class="col-md-3 d-flex justify-content-center justify-content-md-start mb-4 mb-md-0">
+                <img src="assets/img/antesala-logo-white.svg" width="200px" alt="">
             </div>
             <div class="col-md-3">
                 <h1 class="GothamLight fc-blanco mt-4 mt-md-0">Enlaces</h1>
